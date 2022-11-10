@@ -99,7 +99,7 @@
 		</div>
 	</div>
 
-	<h2 class="text-center text-2xl my-6">His Eminence the 2nd Kalu Rinpoche</h2>
+	<h2 class="text-center text-2xl my-6">His Eminence The 2nd Kalu Rinpoche</h2>
 
 	<div class="my-4 mx-auto px-8">
 		<figure>
@@ -116,7 +116,7 @@
 	</p>
 
 	<p class="mb-2 text-lg">
-		His Eminence the 2nd Kalu Rinpoche was born September 17, 1990, at Samdrub Darjay Choling
+		His Eminence The 2nd Kalu Rinpoche was born September 17, 1990, at Samdrub Darjay Choling
 		Monastery in Sonada, India during the monthly fulfillment offerings to the Shangpa Kagyu
 		Protector, Chagdrukpa (Six-armed Mahakala). Many auspicious signs accompanied his birth and a
 		canopy of rainbows formed over his monastery identical to the rainbows that had appeared above
@@ -162,7 +162,7 @@
 	</p>
 
 	<p class="mb-2 text-lg">
-		At a young age, the 2nd Kaybjay Kalu Rinpoche’s interest in meditation, chanting, calligraphy
+		At a young age, The 2nd Kaybjay Kalu Rinpoche’s interest in meditation, chanting, calligraphy
 		and the traditional musical instruments revealed his deep affinity for Dharma activity.his
 		greatest joy was found in playing the various ritual musical instruments, such as ra-gung (long
 		horns) and gya-ling (short horns). With his gentle and loving nature he naturally comported
@@ -224,7 +224,7 @@
 		Seven Great Jewels of the Shangpa tradition. Sangye Töngpa was the first teacher who gave these
 		instructions to more than one of his disciples, and from this point on, several different lines
 		of transmission developed. The intention for keeping the lineage secret in this fashion was to
-		protect it from becoming an established monastic tradition. His Eminence the 2nd Kalu Rinpoche,
+		protect it from becoming an established monastic tradition. His Eminence The 2nd Kalu Rinpoche,
 		is the current head lineage holder of the Shangpa Kagyu tradition.
 	</p>
 	<p class="mb-2 text-lg">
@@ -238,7 +238,7 @@
 	<h3 class="text-center text-xl mb-4">Karma Kagyu lineage</h3>
 
 	<p class="mb-6 text-lg">
-		Karma Kagyu lineage is headed by His Holiness the 17th Karmapa, Ogyen Trinley Dorje. The Lord
+		The Karma Kagyu lineage is headed by His Holiness The 17th Karmapa, Ogyen Trinley Dorje. The Lord
 		Buddha Shakyamuni foretold the coming of the lineage of the Karmapas. Karmapa means “the one who
 		carries out buddha-activity” or “the embodiment of all the activities of the buddhas.” The
 		lineage began with the primordial deity, Vajradhara (Dorje Chang in Tibetan). He passed the
@@ -248,7 +248,7 @@
 		teachings back to Tibet, translated them into Tibetan, and began to teach. His primary student
 		was Milarepa, the poet-saint who wore only a thin cotton shawl and lived in caves. Milarepa had
 		many students, but he passed the teachings to Gampopa, who wrote The Jewel Ornament of
-		Liberation, which is still in print. Gampopa chose to pass the teachings to the first Karmapa,
+		Liberation, which is still in print. Gampopa chose to pass the teachings to The First Karmapa,
 		Dusum Khyenpa. Dusum Khyenpa vowed to reincarnate as the lineage holder of the Karma Kagyu
 		Lineage for 25 incarnations and His Holiness the 17th Karmapa continues the Buddha activity of
 		the lineage to this day.
@@ -276,7 +276,7 @@
 		The Buddha statue placed in the upper part of the Stupa is <a
 			href="https://www.wikiwand.com/en/Medicine_Buddha"
 			target="_blank"
-			class="font-semibold">MEDICINE BUDDHA</a
+			class="">Medicine Buddha</a
 		>, exemplifying healing for all beings.
 	</p>
 </Section>
