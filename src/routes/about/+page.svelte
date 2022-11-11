@@ -43,8 +43,8 @@
 		Palpung Monastery in Tibet was the seat of the Tai Situ Rinpoche XI. Lama finished five
 		completions of the Four Foundations plus graduating top of his class from the Three Year Three
 		Month Three Day Retreat, graduating as Lama Karma Rinchen. By this time he had met and bonded
-		with the The Vidyadhara Kaybjay Dorje Chang 1st Kalu Rinpoche, his root Lama. Everywhere Ven.
-		Lama Karma Rinchen went, the people wanted him to stay and be their Lama. He was very popular.
+		with The Vajradhara Kaybjay Dorje Chang 1st Kalu Rinpoche, his root Lama. Everywhere The Ven. Lama
+		Karma Rinchen went, the people wanted him to stay and be their Lama. He was very popular.
 	</p>
 	<p class="mb-4 text-lg">
 		When the Communists forced the Lamas out of Tibet, The Venerable Lama Karma Rinchen escaped to
@@ -142,7 +142,7 @@
 		</div>
 
 		<p class="mb-2 text-lg col-span-1 md:col-span-2">
-			His Eminence 2nd Kaybjay Kalu Rinpoche was born to Lama Gyaltsen who served as Rinpoche’s
+			His Eminence The 2nd Kaybjay Kalu Rinpoche was born to Lama Gyaltsen who served as Rinpoche’s
 			secretary. His Eminence Kenting Tai Situ Rinpoche officially recognized Kalu Rinpoche’s Yangsi
 			(young reincarnation) on March 25, 1992, saying that he had received definite signs from Kalu
 			Rinpoche Himself. His Eminence Kenting Tai Situ Rinpoche then sent a letter of recognition to
@@ -162,7 +162,7 @@
 	</p>
 
 	<p class="mb-2 text-lg">
-		At a young age, The 2nd Kaybjay Kalu Rinpoche’s interest in meditation, chanting, calligraphy
+		At a young age, His Eminence The 2nd Kaybjay Kalu Rinpoche’s interest in meditation, chanting, calligraphy
 		and the traditional musical instruments revealed his deep affinity for Dharma activity.his
 		greatest joy was found in playing the various ritual musical instruments, such as ra-gung (long
 		horns) and gya-ling (short horns). With his gentle and loving nature he naturally comported
@@ -238,10 +238,10 @@
 	<h3 class="text-center text-xl mb-4">Karma Kagyu lineage</h3>
 
 	<p class="mb-6 text-lg">
-		The Karma Kagyu lineage is headed by His Holiness The 17th Karmapa, Ogyen Trinley Dorje. The Lord
-		Buddha Shakyamuni foretold the coming of the lineage of the Karmapas. Karmapa means “the one who
-		carries out buddha-activity” or “the embodiment of all the activities of the buddhas.” The
-		lineage began with the primordial deity, Vajradhara (Dorje Chang in Tibetan). He passed the
+		The Karma Kagyu lineage is headed by His Holiness The 17th Karmapa, Ogyen Trinley Dorje. The
+		Lord Buddha Shakyamuni foretold the coming of the lineage of the Karmapas. Karmapa means “the
+		one who carries out buddha-activity” or “the embodiment of all the activities of the buddhas.”
+		The lineage began with the primordial deity, Vajradhara (Dorje Chang in Tibetan). He passed the
 		teachings down to Tilopa, a Mahasiddha from India. Tilopa taught Naropa, a scholar, who became
 		enlightened through the teachings of Tilopa. Then a linguist from Tibet was interested, and he
 		went to great lengths to find and learn from Naropa. His name was Marpa, and he took the
