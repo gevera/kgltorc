@@ -99,7 +99,7 @@
 		</div>
 	</div>
 
-	<h2 class="text-center text-2xl my-6">His Eminence The 2nd Kalu Rinpoche</h2>
+	<h2 class="text-center text-2xl my-6">His Eminence The 2nd Kaybjay Kalu Rinpoche</h2>
 
 	<div class="my-4 mx-auto px-8">
 		<figure>
@@ -116,7 +116,7 @@
 	</p>
 
 	<p class="mb-2 text-lg">
-		His Eminence The 2nd Kalu Rinpoche was born September 17, 1990, at Samdrub Darjay Choling
+		His Eminence The 2nd Kaybjay Kalu Rinpoche was born September 17, 1990, at Samdrub Darjay Choling
 		Monastery in Sonada, India during the monthly fulfillment offerings to the Shangpa Kagyu
 		Protector, Chagdrukpa (Six-armed Mahakala). Many auspicious signs accompanied his birth and a
 		canopy of rainbows formed over his monastery identical to the rainbows that had appeared above
