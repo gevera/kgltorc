@@ -55,51 +55,89 @@
 
 		<div class="flex flex-col gap-2 p-1">
 			{#if member}
-				<a href="https://www.paypal.com/donate/?hosted_button_id=3LNVYKQFU5BY2" target="_blank" class="block w-full">
+				<a
+					href="https://www.paypal.com/donate/?hosted_button_id=3LNVYKQFU5BY2"
+					target="_blank"
+					class="block w-full"
+				>
 					<div class="w-full text-white p-2 bg-red-900 hover:bg-red-800 rounded-md text-center">
 						<div class="font-semibold uppercase">Niguma Long Life Empowerment</div>
-						<div class="text-sm italic ml-2">May 27th - ${price} (member)</div>
+						<div class="text-sm italic ml-2">May 27th (member)</div>
+						<div class="text-sm font-semibold">suggested donation - ${price}</div>
 					</div>
 				</a>
-				<a href="https://www.paypal.com/donate/?hosted_button_id=FCR9NZF2QUSJA" target="_blank" class="block w-full">
+				<a
+					href="https://www.paypal.com/donate/?hosted_button_id=FCR9NZF2QUSJA"
+					target="_blank"
+					class="block w-full"
+				>
 					<div class="w-full text-white p-2 bg-red-900 hover:bg-red-800 rounded-md text-center">
 						<div class="font-semibold uppercase">Chenrezig Empowerment</div>
-						<div class="text-sm italic ml-2">May 28th - ${price} (member)</div>
+						<div class="text-sm italic ml-2">May 28th (member)</div>
+						<div class="text-sm font-semibold">suggested donation - ${price}</div>
 					</div>
 				</a>
-				<a href="https://www.paypal.com/donate/?hosted_button_id=GPY8EV2EPB6TG" target="_blank" class="block w-full">
+				<a
+					href="https://www.paypal.com/donate/?hosted_button_id=GPY8EV2EPB6TG"
+					target="_blank"
+					class="block w-full"
+				>
 					<div class="w-full text-white p-2 bg-red-900 hover:bg-red-800 rounded-md text-center">
 						<div class="font-semibold uppercase">Niguma Long Life & Chenrezig Empowerment</div>
-						<div class="text-sm italic ml-2">May 27th and 28th - ${price + price} (member)</div>
+						<div class="text-sm italic ml-2">May 27th and 28th (member)</div>
+						<div class="text-sm font-semibold">suggested donation - ${price + price}</div>
 					</div>
 				</a>
 			{:else}
-				<a href="https://www.paypal.com/donate/?hosted_button_id=9QLCNRSHDZXAA" target="_blank" class="block w-full">
+				<a
+					href="https://www.paypal.com/donate/?hosted_button_id=9QLCNRSHDZXAA"
+					target="_blank"
+					class="block w-full"
+				>
 					<div class="w-full text-white p-2 bg-red-900 hover:bg-red-800 rounded-md text-center">
 						<div class="font-semibold uppercase">Niguma Long Life Empowerment</div>
-						<div class="text-sm italic ml-2">May 27th - ${price} (non-member)</div>
+						<div class="text-sm italic ml-2">May 27th (non-member)</div>
+						<div class="text-sm font-semibold">suggested donation - ${price}</div>
 					</div>
 				</a>
-				<a href="https://www.paypal.com/donate/?hosted_button_id=V8RSB8ECSG9R6" target="_blank" class="block w-full">
+				<a
+					href="https://www.paypal.com/donate/?hosted_button_id=V8RSB8ECSG9R6"
+					target="_blank"
+					class="block w-full"
+				>
 					<div class="w-full text-white p-2 bg-red-900 hover:bg-red-800 rounded-md text-center">
 						<div class="font-semibold uppercase">Chenrezig Empowerment</div>
-						<div class="text-sm italic ml-2">May 28th - ${price} (non-member)</div>
+						<div class="text-sm italic ml-2">May 28th (non-member)</div>
+						<div class="text-sm font-semibold">suggested donation - ${price}</div>
 					</div>
 				</a>
-				<a href="https://www.paypal.com/donate/?hosted_button_id=YP85F3ZZB766C" target="_blank" class="block w-full">
+				<a
+					href="https://www.paypal.com/donate/?hosted_button_id=YP85F3ZZB766C"
+					target="_blank"
+					class="block w-full"
+				>
 					<div class="w-full text-white p-2 bg-red-900 hover:bg-red-800 rounded-md text-center">
 						<div class="font-semibold uppercase">Niguma Long Life & Chenrezig Empowerment</div>
-						<div class="text-sm italic ml-2">May 27th and 28th - ${price + price} (non-member)</div>
+						<div class="text-sm italic ml-2">May 27th and 28th (non-member)</div>
+						<div class="text-sm font-semibold">suggested donation - ${price + price}</div>
 					</div>
 				</a>
 			{/if}
-			<a href="https://www.paypal.com/donate/?hosted_button_id=3XTAPFEL5M7WA" target="_blank" class="block w-full">
+			<a
+				href="https://www.paypal.com/donate/?hosted_button_id=3XTAPFEL5M7WA"
+				target="_blank"
+				class="block w-full"
+			>
 				<div class="w-full text-white p-2 bg-red-900 hover:bg-red-800 rounded-md text-center">
 					<div class="font-semibold uppercase">Teacher’s Gift</div>
 					<div class="text-sm italic ml-2">(optional)</div>
 				</div>
 			</a>
-			<a href="https://www.paypal.com/donate/?hosted_button_id=GPB2MK8DHZ78G" target="_blank" class="block w-full">
+			<a
+				href="https://www.paypal.com/donate/?hosted_button_id=GPB2MK8DHZ78G"
+				target="_blank"
+				class="block w-full"
+			>
 				<div class="w-full text-white p-2 bg-red-900 hover:bg-red-800 rounded-md text-center">
 					<div class="font-semibold uppercase">Kata - White scarf</div>
 					<div class="text-sm italic ml-2">(optional)</div>
@@ -270,11 +308,18 @@
 	<ul class="my-4 list-disc list-inside flex flex-col gap-2 text-sm">
 		<li>Please arrive at 9:45 AM and give yourself a little time for parking</li>
 		<li>
+			When you register and pay with PayPal online you will receive an email from PayPal with your
+			receipt with details of what you have registered for and/or what you have purchased. Please
+			bring those emails with you the day of the event and the email will act as your ticket and
+			proof of registration and/or purchase for any katas you have bought. Either print it or show
+			it to us on your phone.
+		</li>
+		<li>
 			No one will be turned away for lack of funds. There is also in person registration at the
-			dharma center at a registration table at the front entrance. Therefore if you want to register
-			the day of the event in person you do not have to fill out this form, but if you want to
-			register in person please try to arrive a bit earlier by 9:30am on the day of the event you
-			are attending.
+			dharma center at a registration table at the front entrance where you can give your donation.
+			Therefore if you want to register the day of the event and give a donation in person you do
+			not have to fill out this form. But if you want to register in person please try to arrive a
+			bit earlier by 9:30AM on the day of the event you are attending.
 		</li>
 		<li>
 			At the end of each day there will be a procession to offer Katas (white scarfs) where each
