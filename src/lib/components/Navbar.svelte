@@ -28,6 +28,7 @@
 				<li><a href="/about#stupa">Our Stupa</a></li>
 				<li><a href="/membership_support#hero">Membership & Support</a></li>
 				<li><a href="/calendar">Calendar & Events</a></li>
+				<li><a href="/registration">Registration</a></li>
 			</ul>
 		</div>
 	</div>
