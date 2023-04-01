@@ -30,7 +30,7 @@
 		</div>
 		<div class="flex flex-col items-center">
 			<h3 class="text-xl">Chenrezig Empowerment</h3>
-			<p class="font-bold">May 27th 10am - 11:30am and 2pm-4pm</p>
+			<p class="font-bold">May 28th 10am - 11:30am and 2pm-4pm</p>
 		</div>
 	</div>
 
