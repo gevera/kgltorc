@@ -1,3 +1,7 @@
+<script>
+	import DonateButton from "./DonateButton.svelte";
+
+</script>
 <footer
 	class="flex flex-col gap-4 items-center justify-between px-6 py-4 sm:flex-row border-t border-warning bg-red-800"
 >
@@ -11,6 +15,10 @@
 			>813 North Pershing Street, Truth or Consequences, NM 87901</a
 		>
 	</p>
+
+	<div>
+		<DonateButton />
+	</div>
 
 	<!-- <div class="flex -mx-2">
 		<a href="/" class="mx-2 text-white hover:text-warning" aria-label="Facebook">
