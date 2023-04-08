@@ -15,7 +15,7 @@
 <a
 	class="block bg-red-800 hover:bg-red-900 hover:shadow-md font-bold p-4 my-4 text-center text-2xl text-white"
 	href="/registration"
-	>Attend Niguma and Chenrezi Empowerments on 27th and 28th of May
+	>Attend Niguma and Chenrezig Empowerments on 27th and 28th of May
 </a>
 <Section id="main">
 	<h2 class="text-center text-3xl my-4">Welcome</h2>
@@ -23,7 +23,7 @@
 		Karma Gyurmed Ling, which translates as <span class="italic"
 			>“Garden Island of Unchangeable Buddha Activity”</span
 		>
-		is a center of Buddhist study and practice under the direction of His Eminence The 2nd Kaybjay Kalu
+		is a center of Buddhist study and practice under the direction of His Eminence The 2nd Kyabjay Kalu
 		Rinpoche, Meditation Master of the Kagyupa and Shangpa lineages of Tibetan Buddhism. Please go to
 		<a href="/calendar" class="text-red-800">our calendar</a> for the schedule of our weekly and monthly
 		practices, classes and upcoming events.

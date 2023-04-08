@@ -1,4 +1,5 @@
 <script>
+	import DonateButton from '$lib/components/DonateButton.svelte';
 	import Section from '$lib/components/Section.svelte';
 </script>
 
@@ -6,7 +7,7 @@
 	<title>Membership & Support | Karma Gyurmed Ling</title>
 </svelte:head>
 
-<div class="my-4"  id="hero">
+<div class="my-4" id="hero">
 	<img
 		src="Group_w_Kalu.jpg"
 		alt="Sangha with Kalu Rinpoche"
@@ -49,17 +50,31 @@
 			per month. Membership as Benefactor is $108 annually.
 		</p>
 	</div>
+
+	<div class="my-2 text-lg flex items-center flex-wrap">
+		<p>To become a member you can click here to do it online</p>
+		<div class="p-2 place-self-center w-full"><DonateButton /></div>
+	</div>
+
 	<div class="my-2 text-lg">
-		Click here to access the <a
+		Or
+		<a
 			href="https://docs.google.com/document/d/12gpqDBcsTg9bxjSDPvDwA-wx6k20GPmQCkuuWF5PuEs"
 			target="_blank"
-			class="text-red-800 italic">membership form</a
-		>.
+			class="text-red-900 italic font-bold hover:text-red-800 hover:underline"
+		>
+			Click here
+		</a>
+		to download the printable membership form and mail along with your check
 	</div>
 
 	<p class="mb-4 text-lg">
-		Payment for membership may be made by cash or check at the Dharma Center in our offering box, or
-		a check may be mailed to the address below.
+		Also, you may drop off your membership form with your cash or check payment in the donation box
+		at the Dharma Center.
+	</p>
+	<p class="mb-4 text-lg">
+		Alternatively, always feel free to speak to our Treasurer, <span class="italic">Jan Born</span>,
+		in person to make any special arrangements.
 	</p>
 
 	<div class="text-lg mt-4 mb-16">

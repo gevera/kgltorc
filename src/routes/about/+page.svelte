@@ -43,13 +43,13 @@
 		Palpung Monastery in Tibet was the seat of the Tai Situ Rinpoche XI. Lama finished five
 		completions of the Four Foundations plus graduating top of his class from the Three Year Three
 		Month Three Day Retreat, graduating as Lama Karma Rinchen. By this time he had met and bonded
-		with The Vajradhara Kaybjay Dorje Chang 1st Kalu Rinpoche, his root Lama. Everywhere The Ven. Lama
-		Karma Rinchen went, the people wanted him to stay and be their Lama. He was very popular.
+		with The Vajradhara Kyabjay Dorje Chang 1st Kalu Rinpoche, his root Lama. Everywhere The Ven.
+		Lama Karma Rinchen went, the people wanted him to stay and be their Lama. He was very popular.
 	</p>
 	<p class="mb-4 text-lg">
 		When the Communists forced the Lamas out of Tibet, The Venerable Lama Karma Rinchen escaped to
-		India, where he helped The Vidyadhara Kaybjay Dorje Chang 1st Kalu Rinpoche establish a
-		monastery in Darjeeling. The Vidyadhara Kaybjay Dorje Chang 1st Kalu Rinpoche and other High
+		India, where he helped The Vidyadhara Kyabjay Dorje Chang 1st Kalu Rinpoche establish a
+		monastery in Darjeeling. The Vidyadhara Kyabjay Dorje Chang 1st Kalu Rinpoche and other High
 		Lamas ventured out from India to the West (Europe and North & South America), establishing
 		dharma centers and monasteries. The Venerable Lama Karma Rinchen was assigned to Honolulu in
 		1977, where he successfully established Tibetan Buddhism.
@@ -93,13 +93,13 @@
 			<figure>
 				<img src="rainbow.png" alt="Lama Rinchen Rainbow" class="w-full object-cover" />
 				<figcaption class="text-center italic">
-					A rainbow appears at a public funeral for The Ven. Lama Karma Rinchen.
+					A rainbow appears at a public funeral for The Venerable Lama Karma Rinchen.
 				</figcaption>
 			</figure>
 		</div>
 	</div>
 
-	<h2 class="text-center text-2xl my-6" id="kalu">His Eminence The 2nd Kaybjay Kalu Rinpoche</h2>
+	<h2 class="text-center text-2xl my-6" id="kalu">His Eminence The 2nd Kyabjay Kalu Rinpoche</h2>
 
 	<div class="my-4 mx-auto px-8">
 		<figure>
@@ -112,19 +112,19 @@
 
 	<p class="mb-2 text-lg">
 		As mentioned above the founder of Karma Gyurme Ling, The Venerable Lama Karma Rinchen had a
-		strong root connection with the first and second Kalu Rinpoche.
+		strong root connection with both The Vidyadhara Kyabjay Dorje Chang 1st Kalu Rinpoche and The
+		2nd Kyabjay Kalu Rinpoche.
 	</p>
 
 	<p class="mb-2 text-lg">
-		His Eminence The 2nd Kaybjay Kalu Rinpoche was born September 17, 1990, at Samdrub Darjay Choling
-		Monastery in Sonada, India during the monthly fulfillment offerings to the Shangpa Kagyu
+		His Eminence The 2nd Kyabjay Kalu Rinpoche was born September 17, 1990, at Samdrub Darjay
+		Choling Monastery in Sonada, India during the monthly fulfillment offerings to the Shangpa Kagyu
 		Protector, Chagdrukpa (Six-armed Mahakala). Many auspicious signs accompanied his birth and a
 		canopy of rainbows formed over his monastery identical to the rainbows that had appeared above
-		the monastery after The Vidyadhara Kaybjay Dorje Chang 1st Kalu Rinpoche’s Paranivana. His
-		Eminence Kenting Tai Situ Rinpoche officially recognized Kalu Rinpoche’s Yangsi on March 25,
-		1992. Bokar Rinpoche stated, “That the Venerable Kalu Rinpoche chose to be reborn at his
-		previous home, at his own monastery Samdrup Darjay Choling, is an indication of his complete
-		freedom of mind.”
+		the monastery after The Vajradhara Kyabjay Dorje Chang 1st Kalu Rinpoche’s Paranivana. His
+		Eminence Kyabjay Kenting Tai Situ Rinpoche Kalu Rinpoche’s Yangsi on March 25, 1992. Bokar
+		Rinpoche stated, “That the Venerable Kalu Rinpoche chose to be reborn at his previous home, at
+		his own monastery Samdrup Darjay Choling, is an indication of his complete freedom of mind.”
 	</p>
 
 	<div
@@ -142,42 +142,42 @@
 		</div>
 
 		<p class="mb-2 text-lg col-span-1 md:col-span-2">
-			His Eminence The 2nd Kaybjay Kalu Rinpoche was born to Lama Gyaltsen who served as Rinpoche’s
-			secretary. His Eminence Kenting Tai Situ Rinpoche officially recognized Kalu Rinpoche’s Yangsi
-			(young reincarnation) on March 25, 1992, saying that he had received definite signs from Kalu
-			Rinpoche Himself. His Eminence Kenting Tai Situ Rinpoche then sent a letter of recognition to
-			his father Lama Gyaltsen. His Holiness the Dalai Lama was then consulted and confirmed that
-			the child, then one and a half years old, was surely and unmistakably the reincarnation of
-			Kalu Rinpoche.
+			His Eminence The 2nd Kyabjay Kalu Rinpoche was born to Lama Gyaltsen who served as Rinpoche’s
+			secretary. His Eminence Kyabjay Kenting Tai Situ Rinpoche officially recognized Kalu
+			Rinpoche’s Yangsi (young reincarnation) on March 25, 1992, saying that he had received
+			definite signs from Kalu Rinpoche Himself. His Eminence Kyabjay Kenting Tai Situ Rinpoche then
+			sent a letter of recognition to his father Lama Gyaltsen. His Holiness the Dalai Lama was then
+			consulted and confirmed that the child, then one and a half years old, was surely and
+			unmistakably the reincarnation of Kalu Rinpoche.
 		</p>
 	</div>
 
 	<p class="mb-2 text-lg">
-		On February 28, 1993, His Eminence The 2nd Kaybjay Kalu Rinpoche was enthroned at Samdrup Darjay
+		On February 28, 1993, His Eminence The 2nd Kyabjay Kalu Rinpoche was enthroned at Samdrup Darjay
 		Choling Monastery in Sonada at a profound ceremony of investiture. The 14th Chamgon His Eminence
-		Kenting Tai Situ Rinpoche and His Eminence Goshir Gyaltsab Rinpoche presided over the ceremony.
-		His Eminence Kenting Tai Situ Rinpoche performed the hair-cutting ceremony and bestowed on the
-		young incarnation the name Karma Ngedön Tenpay Gyaltsen; Victory Banner of the Teachings of the
-		True Meaning.
+		Kyabjay Kenting Tai Situ Rinpoche and His Eminence Kyabjay Goshir Gyaltsab Rinpoche presided
+		over the ceremony. His Eminence Kyabjay Kenting Tai Situ Rinpoche performed the hair-cutting
+		ceremony and bestowed on the young incarnation the name Karma Ngedön Tenpay Gyaltsen; Victory
+		Banner of the Teachings of the True Meaning.
 	</p>
 
 	<p class="mb-2 text-lg">
-		At a young age, His Eminence The 2nd Kaybjay Kalu Rinpoche’s interest in meditation, chanting, calligraphy
-		and the traditional musical instruments revealed his deep affinity for Dharma activity.his
-		greatest joy was found in playing the various ritual musical instruments, such as ra-gung (long
-		horns) and gya-ling (short horns). With his gentle and loving nature he naturally comported
-		himself in a manner surpassing the behavior of other children and his character revealed
-		peacefulness, discipline and complete fearlessness.
+		At a young age, His Eminence The 2nd Kyabjay Kalu Rinpoche’s interest in meditation, chanting,
+		calligraphy and the traditional musical instruments revealed his deep affinity for Dharma
+		activity.his greatest joy was found in playing the various ritual musical instruments, such as
+		ra-gung (long horns) and gya-ling (short horns). With his gentle and loving nature he naturally
+		comported himself in a manner surpassing the behavior of other children and his character
+		revealed peacefulness, discipline and complete fearlessness.
 	</p>
 
 	<p class="mb-2 text-lg">
-		His Eminence The 2nd Kaybjay Kalu Rinpoche received the complete Empowerments of the Shangpa
+		His Eminence The 2nd Kyabjay Kalu Rinpoche received the complete Empowerments of the Shangpa
 		Kaygu Lineage. Thereafter he entered into the traditional Shangpa Kagyu Retreat. In September of
-		2008 the His Eminence The 2nd Kaybjay Kalu Rinpoche completed his first three-year retreat.
+		2008 the His Eminence The 2nd Kyabjay Kalu Rinpoche completed his first three-year retreat.
 	</p>
 
 	<p class="mb-12 text-lg">
-		We are indeed extremely grateful to His Eminence The 2nd Kaybjay Kalu Rinpoche, whose sole
+		We are indeed extremely grateful to His Eminence The 2nd Kyabjay Kalu Rinpoche, whose sole
 		purpose in life is to bring benefit to all beings, and who, through his commitments and
 		diligence to continue unbroken the precious transmissions of the Shangpa and Karma Kagyu
 		lineages, ensures that the precious teachings remain available to those who seek to walk upon
@@ -191,7 +191,7 @@
 			<p class="mb-4 text-lg">
 				Venerable Lama Mingma Sherpa was born in Nepal and became a Buddhist monk at the age of
 				eight. He completed three-year retreat under the direction of the His Eminence The 2nd
-				Kaybjay Kalu Rinpoche. In 2010, His Eminence asked Lama Mingma to come to Santa Fe to assist
+				Kyabjay Kalu Rinpoche. In 2010, His Eminence asked Lama Mingma to come to Santa Fe to assist
 				Ven. Lama Dorje and to assume responsibilities for the continuation of Dharma studies at the
 				center. Lama Mingma recently relocated to help with Honolulu and other centers.
 			</p>

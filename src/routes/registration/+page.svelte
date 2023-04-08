@@ -17,7 +17,7 @@
 	<h1 class="text-center text-3xl my-4">Niguma Longlife and Chenrezig Empowerments</h1>
 	<p class="my-4 text-lg">
 		<a href="/about#kalu" class="italic font-semibold hover:text-red-800"
-			>His Eminence The 2nd Kaybjay Kalu Rinpoche</a
+			>His Eminence The 2nd Kyabjay Kalu Rinpoche</a
 		> will be visiting Truth or Consequences on May 27th and 28th, giving Niguma Long Life and Chenrezig
 		Empowerments
 	</p>
@@ -341,4 +341,12 @@
 			establishment that might accept such reservations made a day in advance.
 		</li>
 	</ul>
+
+	<div class="my-2 p-2 border border-red-800">
+		<p>
+			The 2nd Kyabjay Kalu Rinpoche’s is also having events and programs in other cities and
+			towns in New Mexico and around the United States.<br />Please visit
+			<a class="text-red-900 hover:text-red-800" href="https://shangpakagyu.org/events" rel="noopener" target="_blank">https://shangpakagyu.org/events</a> for his full schedule.
+		</p>
+	</div>
 </Section>
