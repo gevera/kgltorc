@@ -14,7 +14,7 @@
 
 <Hero name={'Buddhist Center'} mobileImage={'Niguma.jpg'} desktopImage={'Niguma.jpg'} />
 <Section id="main">
-	<h1 class="text-center text-3xl my-4">Niguma Longlife and Chenrezig Empowerments</h1>
+	<h1 class="text-center text-3xl my-4">Niguma Long Life and Chenrezig Empowerments</h1>
 	<p class="my-4 text-lg">
 		<a href="/about#kalu" class="italic font-semibold hover:text-red-800"
 			>His Eminence The 2nd Kyabjay Kalu Rinpoche</a
