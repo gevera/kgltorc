@@ -63,9 +63,12 @@
 			target="_blank"
 			class="text-red-900 italic font-bold hover:text-red-800 hover:underline"
 		>
-			Click here
+			click here
 		</a>
-		to download the printable membership form and mail along with your check
+		to download the printable membership form and mail along with your check to
+		<span class="text-red-800 font-bold"
+			>KGL Buddhist Center, 813 N. Pershing St., Truth or Consequences, New Mexico 87901</span
+		>
 	</div>
 
 	<p class="mb-4 text-lg">
@@ -77,9 +80,9 @@
 		in person to make any special arrangements.
 	</p>
 
-	<div class="text-lg mt-4 mb-16">
+	<!-- <div class="text-lg mt-4 mb-16">
 		Our mailing address: <span class="text-red-800 font-bold"
 			>KGL Buddhist Center, 813 N. Pershing St., Truth or Consequences, New Mexico 87901</span
 		>
-	</div>
+	</div> -->
 </Section>
