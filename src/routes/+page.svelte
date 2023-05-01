@@ -51,5 +51,5 @@
 		in the practice and study of the dharma.
 	</p>
 
-	<p class="text-2xl text-center my-2 italic">OM MANI PEDME HUM!</p>
+	<p class="text-2xl text-center my-2 italic">May All Beings Be Happy!!!</p>
 </Section>
