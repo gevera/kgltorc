@@ -9,7 +9,7 @@
 </script>
 
 <svelte:head>
-	<title>Registration | Tibetan Buddhist Temple in Truth or Consequences, NM</title>
+	<title>Registration | Tibetan Buddhist Center in Truth or Consequences, NM</title>
 </svelte:head>
 
 <Hero name={'Buddhist Center'} mobileImage={'Niguma.jpg'} desktopImage={'Niguma.jpg'} />
@@ -336,7 +336,7 @@
 
 		<li>
 			The weekend of the event is on Memorial weekend and there is going to be a large number of
-			visitors to truth or consequences. Therefore keep in mind that at luch time the restaurants
+			visitors to truth or consequences. Therefore keep in mind that at lunch time the restaurants
 			will be filled. It is recommended you bring a brown bag lunch or pre-reserve a table at an
 			establishment that might accept such reservations made a day in advance.
 		</li>

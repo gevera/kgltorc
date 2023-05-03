@@ -1,5 +1,5 @@
 <svelte:head>
-	<title>Donation Completed | Tibetan Buddhist Temple in Truth or Consequences, NM</title>
+	<title>Donation Completed | Tibetan Buddhist Center in Truth or Consequences, NM</title>
 </svelte:head>
 
 

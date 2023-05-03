@@ -4,7 +4,7 @@
 </script>
 
 <svelte:head>
-	<title>Karma Gyurmed Ling | Tibetan Buddhist Temple in Truth or Consequences, NM</title>
+	<title>Karma Gyurmed Ling | Tibetan Buddhist Center in Truth or Consequences, NM</title>
 </svelte:head>
 
 <Hero

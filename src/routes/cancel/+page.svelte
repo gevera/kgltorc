@@ -1,5 +1,5 @@
 <svelte:head>
-	<title>Canceled Registration | Tibetan Buddhist Temple in Truth or Consequences, NM</title>
+	<title>Canceled Registration | Tibetan Buddhist Center in Truth or Consequences, NM</title>
 </svelte:head>
 
 
