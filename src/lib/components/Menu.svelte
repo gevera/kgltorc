@@ -37,12 +37,12 @@
 				>Calendar & Events</a
 			>
 		</li>
-		<li class="p-2 ">
+		<!-- <li class="p-2 ">
 			<a
 				href="/registration"
 				class=" text-warning hover:text-base-100 whitespace-nowrap hover:bg-warning rounded-md p-2 "
 				>Registration</a
 			>
-		</li>
+		</li> -->
 	</ul>
 </div>

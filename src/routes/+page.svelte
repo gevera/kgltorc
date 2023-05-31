@@ -12,11 +12,11 @@
 	mobileImage={'center-mobile.png'}
 	desktopImage={'center-desktop.png'}
 />
-<a
+<!-- <a
 	class="block bg-red-800 hover:bg-red-900 hover:shadow-md font-bold p-4 my-4 text-center text-2xl text-white"
 	href="/registration"
 	>Attend Niguma and Chenrezig Empowerments on 27th and 28th of May
-</a>
+</a> -->
 <Section id="main">
 	<h2 class="text-center text-3xl my-4">Welcome</h2>
 	<p class="text-lg mb-4">
