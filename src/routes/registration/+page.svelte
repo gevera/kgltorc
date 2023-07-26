@@ -1,49 +1,97 @@
 <script lang="ts">
 	import Section from '$lib/components/Section.svelte';
 	import Hero from '$lib/components/Hero.svelte';
-	import { enhance } from '$app/forms';
+	// import { enhance } from '$app/forms';
 
 	let member = false;
 
-	$: price = member ? 28 : 35;
+	// $: price = member ? 28 : 35;
 </script>
 
 <svelte:head>
 	<title>Registration | Tibetan Buddhist Center in Truth or Consequences, NM</title>
 </svelte:head>
 
-<Hero name={'Buddhist Center'} mobileImage={'Niguma.jpg'} desktopImage={'Niguma.jpg'} />
+<Hero
+	name={'Buddhist Center'}
+	mobileImage={'lama_lodu_rinpoche.webp'}
+	desktopImage={'lama_lodu_rinpoche.webp'}
+/>
 <Section id="main">
-	<h1 class="text-center text-3xl my-4">Niguma Long Life and Chenrezig Empowerments</h1>
-	<p class="my-4 text-lg">
-		<a href="/about#kalu" class="italic font-semibold hover:text-red-800"
-			>His Eminence The 2nd Kyabjay Kalu Rinpoche</a
-		> will be visiting Truth or Consequences on May 27th and 28th, giving Niguma Long Life and Chenrezig
-		Empowerments
+	<h1 class="text-center text-3xl my-4">
+		Devotion and the Guru/Disciple Relationship in Tibetan Buddhism
+	</h1>
+	<p class="my-6 text-xl text-center">
+		Karma Gyurmed Ling is happy to host an evening with Lama Lodu Rinpoche.
 	</p>
 
-	<h3 class="text-center text-xl my-2">Schedule Details</h3>
-	<div class="grid grid-cols-1 md:grid-cols-2 gap-2 mb-4">
-		<div class="flex flex-col items-center">
+	<p class="my-2">
+		Lama Lodu Rinpoche was appointed resident lama of Kagyu Droden Kunchab in San Francisco by His
+		Eminence Kalu Rinpoche in 1976, and since then has worked tirelessly to benefit sentient beings
+		throughout the world
+	</p>
+
+	<div class="mx-auto text-center flex justify-center my-4">
+		<img src="kl.gif" alt="Teacher and Disciple" class="shadow-lg object-contain" />
+	</div>
+
+	<h3 class="text-center text-xl mt-12">Event Schedule Details</h3>
+	<div class="grid grid-cols-1 gap-2 mb-4">
+		<!-- <div class="flex flex-col items-center">
 			<h3 class="text-xl">Niguma Long Life Empowerment</h3>
 			<p class="font-bold">May 27th 10am - 11:30am and 2pm-4pm</p>
-		</div>
+		</div> -->
 		<div class="flex flex-col items-center">
-			<h3 class="text-xl">Chenrezig Empowerment</h3>
-			<p class="font-bold">May 28th 10am - 11:30am and 2pm-4pm</p>
+			<h3 class="text-xl font-semibold my-4">“Devotion and the Guru/Disciple Relationship in Tibetan Buddhism”</h3>
+			<p class="font-bold text-2xl">August 16th - 6PM</p>
 		</div>
 	</div>
 
+	<p class="my-10">
+		Lama Lodu Rinpoche has led multiple groups of Westerners on Three Year Retreats, erected marble
+		stupas, and gives teachings at centers spanning the entire world, from Hanoi, Vietnam to St.
+		Louis, Missouri. His Holiness the 16th Gyalwang Karmapa once described Lama Lodu Rinpoche as “a
+		lama who has highly developed his inner practice.” Rinpoche’s teachings are clear, unique, and
+		profound, giving time for question and answers to clarify the student’s understanding and
+		ensuring they have the full capability to engage with the practice and benefit not only
+		themselves, but all sentient beings.
+	</p>
+
+	<form
+		action="https://www.paypal.com/donate"
+		method="post"
+		target="_top"
+		class="flex flex-col justify-center items-center my-8"
+	>
+		<input type="hidden" name="hosted_button_id" value="TAYAZEXUQNLZ2" />
+		<button type="submit" class="btn btn-primary bg-red-800 hover:bg-red-700 text-white mx-auto text-bold"
+			>click here to register online</button
+		>
+		<p class="italic text-xs my-6">
+			Suggested donation $20. No one will be turned away for lack of funds
+		</p>
+	</form>
+
+	<p class="text-center">
+		If you are in town you can simply show up at 5:45 PM to register in person
+	</p>
 	<a
-		class="italic my-4 hover:text-red-800 text-center block"
+		class="italic my-4 hover:text-red-800 text-center text-xl block font-semibold"
 		href="https://goo.gl/maps/LiHqhqrX5BxTVDpH6"
 		target="_blank"
 	>
-		All events are located at Karma Gyurmed Ling, 813 North Pershing St. Truth or Consequences, NM
-		87901. Please arrive by 9:45am
+		813 North Pershing St. Truth or Consequences, NM 87901
 	</a>
 
-	<div class="w-full max-w-lg mx-auto mb-10 border-2 border-t-red-800 p-2 bg-slate-50 my-10">
+	<div>
+		Suggested donations are $20 but you can give whatever you like. No one will be turned away for
+		lack of funds. If you give over $20 the amount over will be considered a teaching gift directly
+		to Lama Lodu. .If you would like to receive the link to register on line please click here to
+		make your donation and write in For Lama Lodu with your payment, We will send you the link to
+		join the teachings shortly after we receive your donation.
+	</div>
+
+	<!-- <div class="w-full max-w-lg mx-auto mb-10 border-2 border-t-red-800 p-2 bg-slate-50 my-10">
 		<label class="label cursor-pointer" for="member">
 			<span class="label-text text-lg"
 				>Are you a current member of Karma Gyurmed Ling in Truth or Consequences?</span
@@ -144,7 +192,7 @@
 				</div>
 			</a>
 		</div>
-	</div>
+	</div> -->
 
 	<!-- <p class="my-4 text-center">Please fill out the form below to register</p> -->
 
@@ -306,27 +354,27 @@
 
 	<h3 class="text-lg">Logistical Notes</h3>
 	<ul class="my-4 list-disc list-inside flex flex-col gap-2 text-sm">
-		<li>Please arrive at 9:45 AM and give yourself a little time for parking</li>
+		<li>Please arrive at 5:45 PM and give yourself a little time for parking</li>
 		<li>
 			When you register and pay with PayPal online you will receive an email from PayPal with your
 			receipt with details of what you have registered for and/or what you have purchased. Please
-			bring those emails with you the day of the event and the email will act as your ticket and
-			proof of registration and/or purchase for any katas you have bought. Either print it or show
-			it to us on your phone.
+			bring that email with you the day of the event and the email will act as your ticket and proof
+			of registration and/or purchase for any katas you have bought. Either print it or show it to
+			us on your phone.
 		</li>
 		<li>
 			No one will be turned away for lack of funds. There is also in person registration at the
 			dharma center at a registration table at the front entrance where you can give your donation.
 			Therefore if you want to register the day of the event and give a donation in person you do
 			not have to fill out this form. But if you want to register in person please try to arrive a
-			bit earlier by 9:30AM on the day of the event you are attending.
+			bit earlier by 5:45 PM.
 		</li>
 		<li>
-			At the end of each day there will be a procession to offer Katas (white scarfs) where each
-			student can offer a Kata to Kalu Rinpoche. You can bring a kata, or if you do not have one
-			they can be purchased for $5 below this registration page or in person at the event. When you
-			arrive please ask the door person for your Kata, they will have a list of names of those who
-			pre-paid for them at the door.
+			At the end of the day there will be a procession to offer Katas (white scarfs) where each
+			student can offer a Kata to Lama Lodu Rinpoche. You can bring a kata, or if you do not have
+			one they can be purchased for $5 below this registration page or in person at the event. When
+			you arrive please ask the door person for your Kata, they will have a list of names of those
+			who pre-paid for them at the door.
 			<ul class="mx-4 list-inside list-disc">
 				Reserve a Kata White scarf
 				<li>$5 simple white Kata</li>
@@ -334,19 +382,24 @@
 			</ul>
 		</li>
 
-		<li>
+		<!-- <li>
 			The weekend of the event is on Memorial weekend and there is going to be a large number of
 			visitors to truth or consequences. Therefore keep in mind that at lunch time the restaurants
 			will be filled. It is recommended you bring a brown bag lunch or pre-reserve a table at an
 			establishment that might accept such reservations made a day in advance.
-		</li>
+		</li> -->
 	</ul>
 
-	<div class="my-2 p-2 border border-red-800">
+	<!-- <div class="my-2 p-2 border border-red-800">
 		<p>
-			The 2nd Kyabjay Kalu Rinpoche’s is also having events and programs in other cities and
-			towns in New Mexico and around the United States.<br />Please visit
-			<a class="text-red-900 hover:text-red-800" href="https://shangpakagyu.org/events" rel="noopener" target="_blank">https://shangpakagyu.org/events</a> for his full schedule.
+			The 2nd Kyabjay Kalu Rinpoche’s is also having events and programs in other cities and towns
+			in New Mexico and around the United States.<br />Please visit
+			<a
+				class="text-red-900 hover:text-red-800"
+				href="https://shangpakagyu.org/events"
+				rel="noopener"
+				target="_blank">https://shangpakagyu.org/events</a
+			> for his full schedule.
 		</p>
-	</div>
+	</div> -->
 </Section>

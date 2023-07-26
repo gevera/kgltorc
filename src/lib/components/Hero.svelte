@@ -5,6 +5,6 @@
 </script>
 
 <div class="">
-	<img src={desktopImage} class="hidden lg:block h-full object-contain mx-auto" alt={name} />
-	<img src={mobileImage} class="lg:hidden h-full object-cover mx-auto" alt={name} />
+	<img src={desktopImage} class="hidden lg:block h-full w-full max-h-[40vh] max-w-xl object-cover mx-auto object-top lg:rounded-lg" alt={name} />
+	<img src={mobileImage} class="lg:hidden h-full w-full max-h-[70vh] object-cover mx-auto object-top" alt={name} />
 </div>
