@@ -13,7 +13,7 @@
 	desktopImage={'center-desktop.png'}
 />
 <a
-	class="block bg-red-800 hover:bg-red-900 hover:shadow-md font-bold p-4 my-4 text-center text-2xl text-white"
+	class="block bg-red-800 hover:bg-red-900 hover:shadow-md font-bold p-4 my-4 text-center text-xl text-white"
 	href="/registration"
 	>Attend "Devotion and the Guru/Disciple Relationship in Tibetan Buddhism" teachings by Lama Lodu Rinpoche on 16th of August
 </a>

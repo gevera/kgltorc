@@ -18,12 +18,13 @@
 	desktopImage={'lama_lodu_rinpoche.webp'}
 />
 <Section id="main">
-	<h1 class="text-center text-3xl my-4">
+	<h1 class="text-center text-3xl my-4 display-font text-primary">
 		Devotion and the Guru/Disciple Relationship in Tibetan Buddhism
 	</h1>
 	<p class="my-6 text-xl text-center">
-		Karma Gyurmed Ling is happy to host an evening with Lama Lodu Rinpoche.
+		Karma Gyurmed Ling is happy to host an evening with
 	</p>
+	<h2 class="text-center text-2xl font-display text-primary">Lama Lodu Rinpoche</h2>
 
 	<p class="my-2">
 		Lama Lodu Rinpoche was appointed resident lama of Kagyu Droden Kunchab in San Francisco by His

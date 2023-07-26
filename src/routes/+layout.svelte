@@ -11,12 +11,3 @@
 	</div>
 	<Footer />
 </div>
-
-<style global>
-	html {
-		scroll-behavior: smooth;
-	}
-	.display-font {
-		font-family: 'Fondamento', cursive;
-	}
-</style>
