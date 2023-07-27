@@ -101,9 +101,9 @@
 		</p>
 	</form>
 
-	<p class="text-center">If you are in town you can simply show up at 6PM to register in person</p>
+	<p class="text-center font-semibold text-lg my-2">If you are in town you can simply show up at 6PM to register in person</p>
 	<a
-		class="italic my-4 hover:text-red-800 text-center text-xl block font-semibold"
+		class="italic my-4 hover:text-red-800 text-center text-xl block font-bold"
 		href="https://goo.gl/maps/LiHqhqrX5BxTVDpH6"
 		target="_blank"
 	>
