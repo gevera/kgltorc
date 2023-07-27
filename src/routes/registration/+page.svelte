@@ -374,8 +374,8 @@
 
 	<p class="my-4">
 		If you have any special needs or request please email us at <a
-			href="mailto:registrationKaluR.torc@kgltorc.org"
-			class="text-red-800">registrationKaluR.torc@kgltorc.org</a
+			href="mailto:registrationLamaLodru@kgltorc.org"
+			class="text-red-800">registrationLamaLodru@kgltorc.org</a
 		>
 	</p>
 
