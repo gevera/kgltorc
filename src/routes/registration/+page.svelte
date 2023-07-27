@@ -21,9 +21,7 @@
 	<h1 class="text-center text-3xl my-4 display-font text-primary">
 		Devotion and the Guru/Disciple Relationship in Tibetan Buddhism
 	</h1>
-	<p class="my-6 text-xl text-center">
-		Karma Gyurmed Ling is happy to host an evening with
-	</p>
+	<p class="my-6 text-xl text-center">Karma Gyurmed Ling is happy to host an evening with</p>
 	<h2 class="text-center text-2xl font-display text-primary">Lama Lodu Rinpoche</h2>
 
 	<p class="my-2">
@@ -43,8 +41,10 @@
 			<p class="font-bold">May 27th 10am - 11:30am and 2pm-4pm</p>
 		</div> -->
 		<div class="flex flex-col items-center">
-			<h3 class="text-xl font-semibold my-4">“Devotion and the Guru/Disciple Relationship in Tibetan Buddhism”</h3>
-			<p class="font-bold text-2xl">August 16th - 6PM</p>
+			<h3 class="text-xl font-semibold my-4">
+				“Devotion and the Guru/Disciple Relationship in Tibetan Buddhism”
+			</h3>
+			<p class="font-bold text-2xl">August 15th - 6PM</p>
 		</div>
 	</div>
 
@@ -58,6 +58,32 @@
 		themselves, but all sentient beings.
 	</p>
 
+	<div class="my-8">
+		<h4 class="text-lg mb-4 font-semibold">
+			To register for the online event. Please follow these two steps
+		</h4>
+		<ul class="list-decimal list-inside">
+			<li class="mb-4">
+				Click on the Paypal and make a donation for the event (suggested donation $20)
+			</li>
+			<li class="mb-4">
+				Send an email to <a
+					href="mailto:registrationLamaLodru@kgltorc.org"
+					class="link link-primary">registrationLamaLodru@kgltorc.org</a
+				>
+				and in the subject line put
+				<span class="italic">"Register me for Lama Lodro attending online"</span> This insures we have
+				the correct email address for you.
+			</li>
+		</ul>
+		<p>
+			After we get your email we will send you the link that you will use Tuesday the 15th to join
+			the event in the online Google meeting. We hope you share your video and so Lama Lodu can see
+			your face on the computer screen at the center. You will be able to ask questions during the
+			teachings just as if you were present in person.
+		</p>
+	</div>
+
 	<form
 		action="https://www.paypal.com/donate"
 		method="post"
@@ -65,17 +91,17 @@
 		class="flex flex-col justify-center items-center my-8"
 	>
 		<input type="hidden" name="hosted_button_id" value="TAYAZEXUQNLZ2" />
-		<button type="submit" class="btn btn-primary bg-red-800 hover:bg-red-700 text-white mx-auto text-bold"
-			>click here to register online</button
+		<button
+			type="submit"
+			class="btn btn-primary bg-red-800 hover:bg-red-700 text-white mx-auto font-bold normal-case"
+			>Click here for PayPal donation</button
 		>
 		<p class="italic text-xs my-6">
 			Suggested donation $20. No one will be turned away for lack of funds
 		</p>
 	</form>
 
-	<p class="text-center">
-		If you are in town you can simply show up at 5:45 PM to register in person
-	</p>
+	<p class="text-center">If you are in town you can simply show up at 6PM to register in person</p>
 	<a
 		class="italic my-4 hover:text-red-800 text-center text-xl block font-semibold"
 		href="https://goo.gl/maps/LiHqhqrX5BxTVDpH6"
@@ -353,43 +379,43 @@
 		>
 	</p>
 
-	<h3 class="text-lg">Logistical Notes</h3>
-	<ul class="my-4 list-disc list-inside flex flex-col gap-2 text-sm">
-		<li>Please arrive at 5:45 PM and give yourself a little time for parking</li>
-		<li>
-			When you register and pay with PayPal online you will receive an email from PayPal with your
-			receipt with details of what you have registered for and/or what you have purchased. Please
-			bring that email with you the day of the event and the email will act as your ticket and proof
-			of registration and/or purchase for any katas you have bought. Either print it or show it to
-			us on your phone.
-		</li>
-		<li>
-			No one will be turned away for lack of funds. There is also in person registration at the
-			dharma center at a registration table at the front entrance where you can give your donation.
-			Therefore if you want to register the day of the event and give a donation in person you do
-			not have to fill out this form. But if you want to register in person please try to arrive a
-			bit earlier by 5:45 PM.
-		</li>
-		<li>
-			At the end of the day there will be a procession to offer Katas (white scarfs) where each
-			student can offer a Kata to Lama Lodu Rinpoche. You can bring a kata, or if you do not have
-			one they can be purchased for $5 below this registration page or in person at the event. When
-			you arrive please ask the door person for your Kata, they will have a list of names of those
-			who pre-paid for them at the door.
-			<ul class="mx-4 list-inside list-disc">
-				Reserve a Kata White scarf
-				<li>$5 simple white Kata</li>
-				<li>$10 more elaborate fancy Kata.</li>
-			</ul>
-		</li>
-
-		<!-- <li>
-			The weekend of the event is on Memorial weekend and there is going to be a large number of
-			visitors to truth or consequences. Therefore keep in mind that at lunch time the restaurants
-			will be filled. It is recommended you bring a brown bag lunch or pre-reserve a table at an
-			establishment that might accept such reservations made a day in advance.
-		</li> -->
-	</ul>
+	<!-- <h3 class="text-lg">Logistical Notes</h3> -->
+	<!-- <ul class="my-4 list-disc list-inside flex flex-col gap-2 text-sm"> -->
+	<!-- 	<li>Please arrive at 5:45 PM and give yourself a little time for parking</li> -->
+	<!-- 	<li> -->
+	<!-- 		When you register and pay with PayPal online you will receive an email from PayPal with your -->
+	<!-- 		receipt with details of what you have registered for and/or what you have purchased. Please -->
+	<!-- 		bring that email with you the day of the event and the email will act as your ticket and proof -->
+	<!-- 		of registration and/or purchase for any katas you have bought. Either print it or show it to -->
+	<!-- 		us on your phone. -->
+	<!-- 	</li> -->
+	<!-- 	<li> -->
+	<!-- 		No one will be turned away for lack of funds. There is also in person registration at the -->
+	<!-- 		dharma center at a registration table at the front entrance where you can give your donation. -->
+	<!-- 		Therefore if you want to register the day of the event and give a donation in person you do -->
+	<!-- 		not have to fill out this form. But if you want to register in person please try to arrive a -->
+	<!-- 		bit earlier by 5:45 PM. -->
+	<!-- 	</li> -->
+	<!-- 	<li> -->
+	<!-- 		At the end of the day there will be a procession to offer Katas (white scarfs) where each -->
+	<!-- 		student can offer a Kata to Lama Lodu Rinpoche. You can bring a kata, or if you do not have -->
+	<!-- 		one they can be purchased for $5 below this registration page or in person at the event. When -->
+	<!-- 		you arrive please ask the door person for your Kata, they will have a list of names of those -->
+	<!-- 		who pre-paid for them at the door. -->
+	<!-- 		<ul class="mx-4 list-inside list-disc"> -->
+	<!-- 			Reserve a Kata White scarf -->
+	<!-- 			<li>$5 simple white Kata</li> -->
+	<!-- 			<li>$10 more elaborate fancy Kata.</li> -->
+	<!-- 		</ul> -->
+	<!-- 	</li> -->
+	<!---->
+	<!-- 	<!-- <li> -->
+	<!-- 		The weekend of the event is on Memorial weekend and there is going to be a large number of -->
+	<!-- 		visitors to truth or consequences. Therefore keep in mind that at lunch time the restaurants -->
+	<!-- 		will be filled. It is recommended you bring a brown bag lunch or pre-reserve a table at an -->
+	<!-- 		establishment that might accept such reservations made a day in advance. -->
+	<!-- 	</li> -->
+	<!-- </ul> -->
 
 	<!-- <div class="my-2 p-2 border border-red-800">
 		<p>
