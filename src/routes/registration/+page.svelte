@@ -19,7 +19,7 @@
 />
 <Section id="main">
 	<h1 class="text-center text-3xl my-4 display-font text-primary">
-		Devotion and the Guru/Disciple Relationship in Tibetan Buddhism
+		Refuge, Devotion and the Guru/Disciple Relationship in Tibetan Buddhism
 	</h1>
 	<p class="my-6 text-xl text-center">Karma Gyurmed Ling is happy to host an evening with</p>
 	<h2 class="text-center text-2xl font-display text-primary">Lama Lodu Rinpoche</h2>
@@ -42,9 +42,9 @@
 		</div> -->
 		<div class="flex flex-col items-center">
 			<h3 class="text-xl font-semibold my-4">
-				“Devotion and the Guru/Disciple Relationship in Tibetan Buddhism”
+				“Refuge, Devotion and the Guru/Disciple Relationship in Tibetan Buddhism”
 			</h3>
-			<p class="font-bold text-2xl">August 15th - 6PM</p>
+			<p class="font-bold text-2xl">Tuesday, August 15th - 6PM</p>
 		</div>
 	</div>
 
