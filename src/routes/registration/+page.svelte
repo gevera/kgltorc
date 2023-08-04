@@ -72,7 +72,7 @@
 					class="link link-primary">registrationLamaLodru@kgltorc.org</a
 				>
 				and in the subject line put
-				<span class="italic">"Register me for Lama Lodro attending online"</span> This insures we have
+				<span class="italic">"Register me for Lama Lodro attending online"</span> This ensures we have
 				the correct email address for you.
 			</li>
 		</ul>
@@ -113,9 +113,7 @@
 	<div>
 		Suggested donations are $20 but you can give whatever you like. No one will be turned away for
 		lack of funds. If you give over $20 the amount over will be considered a teaching gift directly
-		to Lama Lodu. .If you would like to receive the link to register on line please click here to
-		make your donation and write in For Lama Lodu with your payment, We will send you the link to
-		join the teachings shortly after we receive your donation.
+		to Lama Lodu.
 	</div>
 
 	<!-- <div class="w-full max-w-lg mx-auto mb-10 border-2 border-t-red-800 p-2 bg-slate-50 my-10">
