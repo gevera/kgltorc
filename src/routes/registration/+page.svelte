@@ -12,13 +12,13 @@
 	<title>Registration | Tibetan Buddhist Center in Truth or Consequences, NM</title>
 </svelte:head>
 
-<Hero
+<!-- <Hero
 	name={'Buddhist Center'}
 	mobileImage={'lama_lodu_rinpoche.webp'}
 	desktopImage={'lama_lodu_rinpoche.webp'}
-/>
+/> -->
 <Section id="main">
-	<h1 class="text-center text-3xl my-4 display-font text-primary">
+	<!-- <h1 class="text-center text-3xl my-4 display-font text-primary">
 		Refuge, Devotion and the Guru/Disciple Relationship in Tibetan Buddhism
 	</h1>
 	<p class="my-6 text-xl text-center">Karma Gyurmed Ling is happy to host an evening with</p>
@@ -34,7 +34,7 @@
 		<img src="kl.gif" alt="Teacher and Disciple" class="shadow-lg object-contain" />
 	</div>
 
-	<h3 class="text-center text-xl mt-12">Event Schedule Details</h3>
+	<h3 class="text-center text-xl mt-12">Event Schedule Details</h3> -->
 	<div class="grid grid-cols-1 gap-2 mb-4">
 		<!-- <div class="flex flex-col items-center">
 			<h3 class="text-xl">Niguma Long Life Empowerment</h3>
@@ -42,13 +42,14 @@
 		</div> -->
 		<div class="flex flex-col items-center">
 			<h3 class="text-xl font-semibold my-4">
-				“Refuge, Devotion and the Guru/Disciple Relationship in Tibetan Buddhism”
+				<!-- “Refuge, Devotion and the Guru/Disciple Relationship in Tibetan Buddhism” -->
+				No upcoming events at the moment
 			</h3>
-			<p class="font-bold text-2xl">Tuesday, August 15th - 6PM</p>
+			<!-- <p class="font-bold text-2xl">Tuesday, August 15th - 6PM</p> -->
 		</div>
 	</div>
 
-	<p class="my-10">
+	<!-- <p class="my-10">
 		Lama Lodu Rinpoche has led multiple groups of Westerners on Three Year Retreats, erected marble
 		stupas, and gives teachings at centers spanning the entire world, from Hanoi, Vietnam to St.
 		Louis, Missouri. His Holiness the 16th Gyalwang Karmapa once described Lama Lodu Rinpoche as “a
@@ -114,7 +115,7 @@
 		Suggested donations are $20 but you can give whatever you like. No one will be turned away for
 		lack of funds. If you give over $20 the amount over will be considered a teaching gift directly
 		to Lama Lodu.
-	</div>
+	</div> -->
 
 	<!-- <div class="w-full max-w-lg mx-auto mb-10 border-2 border-t-red-800 p-2 bg-slate-50 my-10">
 		<label class="label cursor-pointer" for="member">
@@ -370,12 +371,12 @@
 		<button type="submit" class="btn bg-red-800 hover:bg-red-900 my-4">Submit</button>
 	</form> -->
 
-	<p class="my-4">
+	<!-- <p class="my-4">
 		If you have any special needs or request please email us at <a
 			href="mailto:registrationLamaLodru@kgltorc.org"
 			class="text-red-800">registrationLamaLodru@kgltorc.org</a
 		>
-	</p>
+	</p> -->
 
 	<!-- <h3 class="text-lg">Logistical Notes</h3> -->
 	<!-- <ul class="my-4 list-disc list-inside flex flex-col gap-2 text-sm"> -->

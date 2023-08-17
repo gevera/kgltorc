@@ -12,12 +12,12 @@
 	mobileImage={'center-mobile.png'}
 	desktopImage={'center-desktop.png'}
 />
-<a
+<!-- <a
 	class="block bg-red-800 hover:bg-red-900 hover:shadow-md font-bold p-4 my-4 text-center text-xl text-white"
 	href="/registration"
 	>Attend "Refuge, Devotion and the Guru/Disciple Relationship in Tibetan Buddhism" teachings on
 	15th of August by Lama Lodu Rinpoche
-</a>
+</a> -->
 <Section id="main">
 	<h2 class="text-center text-3xl my-4">Welcome</h2>
 	<p class="text-lg mb-4">
