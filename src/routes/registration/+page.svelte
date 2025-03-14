@@ -418,7 +418,7 @@
 
 	<!-- <div class="my-2 p-2 border border-red-800">
 		<p>
-			The 2nd Kyabjay Kalu Rinpoche’s is also having events and programs in other cities and towns
+			The 2nd Kyabje Kalu Rinpoche’s is also having events and programs in other cities and towns
 			in New Mexico and around the United States.<br />Please visit
 			<a
 				class="text-red-900 hover:text-red-800"

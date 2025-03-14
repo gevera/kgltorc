@@ -24,7 +24,7 @@
 		Karma Gyurmed Ling, which translates as <span class="italic"
 			>“Garden Island of Unchangeable Buddha Activity”</span
 		>
-		is a center of Buddhist study and practice under the direction of His Eminence The 2nd Kyabjay Kalu
+		is a center of Buddhist study and practice under the direction of His Eminence The 2nd Kyabje Kalu
 		Rinpoche, Meditation Master of the Kagyupa and Shangpa lineages of Tibetan Buddhism. Please go to
 		<a href="/calendar" class="text-red-800">our calendar</a> for the schedule of our weekly and monthly
 		practices, classes and upcoming events.
