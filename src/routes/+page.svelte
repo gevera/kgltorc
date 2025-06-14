@@ -1,6 +1,8 @@
 <script lang="ts">
 	import Section from '$lib/components/Section.svelte';
 	import Hero from '$lib/components/Hero.svelte';
+	import DonateButton from '$lib/components/DonateButton.svelte';
+	import Portal from '$lib/components/Portal.svelte';
 </script>
 
 <svelte:head>
@@ -12,8 +14,11 @@
 	mobileImage={'center-mobile.png'}
 	desktopImage={'center-desktop.png'}
 />
+<div class="">
+	<Portal />
+</div>
 <!-- <a
-	class="block bg-red-800 hover:bg-red-900 hover:shadow-md font-bold p-4 my-4 text-center text-xl text-white"
+	class="block bg-red-800 hover:bg-red-8 hover:bg-red-900 ease-in duration-300 bg-red-800 hover:shadow-md font-bold p-4 my-4 text-center text-xl text-white"
 	href="/registration"
 	>Attend "Refuge, Devotion and the Guru/Disciple Relationship in Tibetan Buddhism" teachings on
 	15th of August by Lama Lodu Rinpoche

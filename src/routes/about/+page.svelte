@@ -1,4 +1,5 @@
-<script>
+<script lang="ts">
+	import Portal from '$lib/components/Portal.svelte';
 	import Section from '$lib/components/Section.svelte';
 </script>
 
@@ -6,6 +7,7 @@
 	<title>About Us | Karma Gyurmed Ling</title>
 </svelte:head>
 
+<Portal />
 <Section id="history">
 	<h2 class="text-center text-2xl mb-4">History of Karma Gyurmed Ling and our Lineage Teachers</h2>
 	<h3 class="text-center text-xl mb-6">Our founder The Venerable Lama Karma Rinchen</h3>
@@ -15,7 +17,7 @@
 		<div class="my-4 col-span-1">
 			<figure>
 				<img
-					src="LamaKarmaRinchen.jpg"
+					src="/LamaKarmaRinchen.jpg"
 					alt="The Venerable Lama Karma Rinchen"
 					class="w-full object-cover"
 				/>
@@ -48,11 +50,11 @@
 	</p>
 	<p class="mb-4 text-lg">
 		When the Communists forced the Lamas out of Tibet, The Venerable Lama Karma Rinchen escaped to
-		India, where he helped The Vidyadhara Kyabje Dorje Chang 1st Kalu Rinpoche establish a
-		monastery in Darjeeling. The Vidyadhara Kyabje Dorje Chang 1st Kalu Rinpoche and other High
-		Lamas ventured out from India to the West (Europe and North & South America), establishing
-		dharma centers and monasteries. The Venerable Lama Karma Rinchen was assigned to Honolulu in
-		1977, where he successfully established Tibetan Buddhism.
+		India, where he helped The Vidyadhara Kyabje Dorje Chang 1st Kalu Rinpoche establish a monastery
+		in Darjeeling. The Vidyadhara Kyabje Dorje Chang 1st Kalu Rinpoche and other High Lamas ventured
+		out from India to the West (Europe and North & South America), establishing dharma centers and
+		monasteries. The Venerable Lama Karma Rinchen was assigned to Honolulu in 1977, where he
+		successfully established Tibetan Buddhism.
 	</p>
 
 	<p class="mb-4 text-lg">
@@ -91,7 +93,7 @@
 		</div>
 		<div class="my-4 col-span-1 md:col-span-2">
 			<figure>
-				<img src="rainbow.png" alt="Lama Rinchen Rainbow" class="w-full object-cover" />
+				<img src="/rainbow.png" alt="Lama Rinchen Rainbow" class="w-full object-cover" />
 				<figcaption class="text-center italic">
 					A rainbow appears at a public funeral for The Venerable Lama Karma Rinchen.
 				</figcaption>
@@ -99,11 +101,13 @@
 		</div>
 	</div>
 
+	<hr />
+
 	<h2 class="text-center text-2xl my-6" id="kalu">His Eminence The 2nd Kyabje Kalu Rinpoche</h2>
 
 	<div class="my-4 mx-auto px-8">
 		<figure>
-			<img src="Mingma_Kalu_Lama.jpg" alt="Bodhisatvas" class="w-full object-cover" />
+			<img src="/Mingma_Kalu_Lama.jpg" alt="Bodhisatvas" class="w-full object-cover" />
 			<figcaption class="text-center italic">
 				Lama Mingma Sherpa, Kalu Rinpoche, Lama Rinchen
 			</figcaption>
@@ -112,13 +116,13 @@
 
 	<p class="mb-2 text-lg">
 		As mentioned above the founder of Karma Gyurme Ling, The Venerable Lama Karma Rinchen had a
-		strong root connection with both The Vidyadhara Kyabje Dorje Chang 1st Kalu Rinpoche and The
-		2nd Kyabje Kalu Rinpoche.
+		strong root connection with both The Vidyadhara Kyabje Dorje Chang 1st Kalu Rinpoche and The 2nd
+		Kyabje Kalu Rinpoche.
 	</p>
 
 	<p class="mb-2 text-lg">
-		His Eminence The 2nd Kyabje Kalu Rinpoche was born September 17, 1990, at Samdrub Darjay
-		Choling Monastery in Sonada, India during the monthly fulfillment offerings to the Shangpa Kagyu
+		His Eminence The 2nd Kyabje Kalu Rinpoche was born September 17, 1990, at Samdrub Darjay Choling
+		Monastery in Sonada, India during the monthly fulfillment offerings to the Shangpa Kagyu
 		Protector, Chagdrukpa (Six-armed Mahakala). Many auspicious signs accompanied his birth and a
 		canopy of rainbows formed over his monastery identical to the rainbows that had appeared above
 		the monastery after The Vajradhara Kyabje Dorje Chang 1st Kalu Rinpoche’s Paranivana. His
@@ -133,7 +137,7 @@
 		<div class="my-4 col-span-1 lg:col-span-2">
 			<figure>
 				<img
-					src="kalu_dalai_lama.png"
+					src="/kalu_dalai_lama.png"
 					alt="Kalu Rinpoche & Dalai Lama"
 					class="w-full object-cover"
 				/>
@@ -143,22 +147,22 @@
 
 		<p class="mb-2 text-lg col-span-1 md:col-span-2">
 			His Eminence The 2nd Kyabje Kalu Rinpoche was born to Lama Gyaltsen who served as Rinpoche’s
-			secretary. His Eminence Kyabje Kenting Tai Situ Rinpoche officially recognized Kalu
-			Rinpoche’s Yangsi (young reincarnation) on March 25, 1992, saying that he had received
-			definite signs from Kalu Rinpoche Himself. His Eminence Kyabje Kenting Tai Situ Rinpoche then
-			sent a letter of recognition to his father Lama Gyaltsen. His Holiness the Dalai Lama was then
-			consulted and confirmed that the child, then one and a half years old, was surely and
-			unmistakably the reincarnation of Kalu Rinpoche.
+			secretary. His Eminence Kyabje Kenting Tai Situ Rinpoche officially recognized Kalu Rinpoche’s
+			Yangsi (young reincarnation) on March 25, 1992, saying that he had received definite signs
+			from Kalu Rinpoche Himself. His Eminence Kyabje Kenting Tai Situ Rinpoche then sent a letter
+			of recognition to his father Lama Gyaltsen. His Holiness the Dalai Lama was then consulted and
+			confirmed that the child, then one and a half years old, was surely and unmistakably the
+			reincarnation of Kalu Rinpoche.
 		</p>
 	</div>
 
 	<p class="mb-2 text-lg">
 		On February 28, 1993, His Eminence The 2nd Kyabje Kalu Rinpoche was enthroned at Samdrup Darjay
 		Choling Monastery in Sonada at a profound ceremony of investiture. The 14th Chamgon His Eminence
-		Kyabje Kenting Tai Situ Rinpoche and His Eminence Kyabje Goshir Gyaltsab Rinpoche presided
-		over the ceremony. His Eminence Kyabje Kenting Tai Situ Rinpoche performed the hair-cutting
-		ceremony and bestowed on the young incarnation the name Karma Ngedön Tenpay Gyaltsen; Victory
-		Banner of the Teachings of the True Meaning.
+		Kyabje Kenting Tai Situ Rinpoche and His Eminence Kyabje Goshir Gyaltsab Rinpoche presided over
+		the ceremony. His Eminence Kyabje Kenting Tai Situ Rinpoche performed the hair-cutting ceremony
+		and bestowed on the young incarnation the name Karma Ngedön Tenpay Gyaltsen; Victory Banner of
+		the Teachings of the True Meaning.
 	</p>
 
 	<p class="mb-2 text-lg">
@@ -184,7 +188,9 @@
 		the blessed Path to Liberation.
 	</p>
 
-	<h2 class="text-center text-2xl mb-6">Venerable Lama Mingma Sherpa, our spiritual advisor</h2>
+	<hr />
+
+	<h2 class="text-center text-2xl my-6">Venerable Lama Mingma Sherpa, our spiritual advisor</h2>
 
 	<div class="grid grid-cols-1 gap-6 md:grid-cols-4 flex-nowrap items-center justify-between mb-6">
 		<div class="col-span-1 md:col-span-2">
@@ -198,9 +204,48 @@
 		</div>
 		<div class="my-4 col-span-1 md:col-span-2">
 			<figure>
-				<img src="lama.png" alt="Lama Migma Sherpa" class="w-full object-cover" />
+				<img src="/lama.png" alt="Lama Migma Sherpa" class="w-full object-cover" />
 				<figcaption class="text-center italic">Lama Migma Sherpa</figcaption>
 			</figure>
+		</div>
+	</div>
+
+	<hr />
+
+	<h2 class="text-center text-2xl my-6">Venerable Lama Nima Sherpa</h2>
+
+	<p class="mb-4 text-lg">
+		Lama Nima Sherpa was born in Nepal In 1986. When he was 7 years old, he was admitted and
+		ordained as a Monk by his <span class="italic">Eminence Kalu Rinpoche</span> in January 1993 at
+		The Monastery:
+		<span class="font-semibold">DRODEN KUNCHAB CHODEY TASHI GOMANG STUPA SALUGARA SILIGURI</span>.
+	</p>
+	<div class="grid grid-cols-1 gap-6 md:grid-cols-4 flex-nowrap items-center justify-between mb-6">
+		<div class="my-4 col-span-1 md:col-span-2">
+			<figure>
+				<img src="/Lama_Nima.jpg" alt="Lama Migma Sherpa" class="w-full object-cover" />
+				<figcaption class="text-center italic">Lama Nima Sherpa</figcaption>
+			</figure>
+		</div>
+		<div class="col-span-1 md:col-span-2">
+			<p class="pb-4">
+				Ever since his admission to this Monastery, he successfully went through all the education
+				and meditation training especially in Shangpa Kagyu Buddhist tradition according to syllabus
+				of this Monastery.
+			</p>
+
+			<p class="pb-4">
+				On October 6th 2009, he entered the three-year three months retreat at Sonada retreat center
+				<span class="font-semibold">KUNSANG DECHEN OSAL LING</span> and completed it successfully in
+				January 13th 2013.
+			</p>
+			<p class="pb-4">
+				He was assigned as a Teacher and disciplinarian of this monastery prior to his entering the
+				three-year-three-month retreat. After the successful completion of his retreat, the
+				monastery entrusted him with more responsibilities in various field of activities of this
+				monastery such as being disciplinarian, teacher and guidance of the young monks. He is much
+				loved and respected by all members of sangha.
+			</p>
 		</div>
 	</div>
 
@@ -255,7 +300,7 @@
 	</p>
 </Section>
 <div class="my-4 mt-30 -pt-30" id="stupa">
-	<img src="stupa.png" alt="Stupa" class="w-full  max-h-[70vh] object-contain" />
+	<img src="/stupa.png" alt="Stupa" class="w-full max-h-[70vh] object-contain" />
 </div>
 <Section id="about-stupa">
 	<h1 class="text-center my-4 text-3xl">Our Stupa</h1>
