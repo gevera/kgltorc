@@ -11,19 +11,34 @@
 <Section id="history">
 	<h2 class="text-center text-2xl mb-4">History of Karma Gyurmed Ling and our Lineage Teachers</h2>
 	<h3 class="text-center text-xl mb-6">Our founder The Venerable Lama Karma Rinchen</h3>
+	<div class="my-4 col-span-1">
+		<figure>
+			<img
+				src="/lama_rinchen.jpg"
+				alt="The Venerable Lama Karma Rinchen"
+				class="w-full object-cover"
+			/>
+			<!-- <img
+				src="/LamaKarmaRinchen.jpg"
+				alt="The Venerable Lama Karma Rinchen"
+				class="w-full object-cover"
+			/> -->
+			<figcaption class="text-center italic">The Venerable Lama Karma Rinchen</figcaption>
+		</figure>
+	</div>
 	<div
 		class="grid grid-cols-1 gap-6 md:grid-cols-2 lg:grid-cols-3 flex-nowrap items-center justify-between"
 	>
-		<div class="my-4 col-span-1">
-			<figure>
-				<img
-					src="/LamaKarmaRinchen.jpg"
-					alt="The Venerable Lama Karma Rinchen"
-					class="w-full object-cover"
-				/>
-				<figcaption class="text-center italic">The Venerable Lama Karma Rinchen</figcaption>
-			</figure>
-		</div>
+	<div class="my-4 col-span-1">
+		<figure>
+			<img
+				src="/LamaKarmaRinchen.jpg"
+				alt="The Venerable Lama Karma Rinchen"
+				class="w-full object-cover max-h-[70vh]"
+			/>
+			<figcaption class="text-center italic">The Venerable Lama Karma Rinchen</figcaption>
+		</figure>
+	</div>
 		<p class="col-span-1 lg:col-span-2 mb-4 text-lg">
 			The story of our center begins in the early 1930’s in the fertile valley Kingdom of Gyalrong
 			in Kham Eastern Tibet, where a wealthy landholder and his wife gave birth to Ven. Lama Karma
@@ -300,7 +315,7 @@
 	</p>
 </Section>
 <div class="my-4 mt-30 -pt-30" id="stupa">
-	<img src="/stupa.png" alt="Stupa" class="w-full max-h-[70vh] object-contain" />
+	<img src="/sun_moon.jpg" alt="Sun Moon" class="w-full max-h-[70vh] object-contain" />
 </div>
 <Section id="about-stupa">
 	<h1 class="text-center my-4 text-3xl">Our Stupa</h1>
@@ -324,4 +339,7 @@
 			class="">Medicine Buddha</a
 		>, exemplifying healing for all beings.
 	</p>
+	<div>
+		<img src="/stupa.png" alt="Stupa" class="w-full max-h-[70vh] object-contain" />
+	</div>
 </Section>
