@@ -29,16 +29,16 @@
 	<div
 		class="grid grid-cols-1 gap-6 md:grid-cols-2 lg:grid-cols-3 flex-nowrap items-center justify-between"
 	>
-	<div class="my-4 col-span-1">
-		<figure>
-			<img
-				src="/LamaKarmaRinchen.jpg"
-				alt="The Venerable Lama Karma Rinchen"
-				class="w-full object-cover max-h-[70vh]"
-			/>
-			<figcaption class="text-center italic">The Venerable Lama Karma Rinchen</figcaption>
-		</figure>
-	</div>
+		<div class="my-4 col-span-1">
+			<figure>
+				<img
+					src="/LamaKarmaRinchen.jpg"
+					alt="The Venerable Lama Karma Rinchen"
+					class="w-full object-cover max-h-[70vh]"
+				/>
+				<figcaption class="text-center italic">The Venerable Lama Karma Rinchen</figcaption>
+			</figure>
+		</div>
 		<p class="col-span-1 lg:col-span-2 mb-4 text-lg">
 			The story of our center begins in the early 1930’s in the fertile valley Kingdom of Gyalrong
 			in Kham Eastern Tibet, where a wealthy landholder and his wife gave birth to Ven. Lama Karma
@@ -227,7 +227,7 @@
 
 	<hr />
 
-	<h2 class="text-center text-2xl my-6">Venerable Lama Nima Sherpa</h2>
+	<h2 class="text-center text-2xl my-6">Venerable Lama Nima Sherpa, our resident lama</h2>
 
 	<p class="mb-4 text-lg">
 		Lama Nima Sherpa was born in Nepal In 1986. When he was 7 years old, he was admitted and

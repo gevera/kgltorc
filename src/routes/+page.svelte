@@ -34,6 +34,9 @@
 		<a href="/calendar" class="text-red-800">our calendar</a> for the schedule of our weekly and monthly
 		practices, classes and upcoming events.
 	</p>
+	<div class="my-5 mx-auto">
+		<img src="/event.jpg" alt="Event and KGL T&C" class="h-full object-contain" />
+	</div>
 	<p class="text-lg mb-4">
 		Karma Gyurmed Ling is supported by membership and donations. We are a 501 (c) 3 non-profit
 		organization. All donations you make are tax deductible.
