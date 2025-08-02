@@ -34,8 +34,30 @@
 		<a href="/calendar" class="text-red-800">our calendar</a> for the schedule of our weekly and monthly
 		practices, classes and upcoming events.
 	</p>
-	<div class="my-5 mx-auto">
-		<img src="/event.jpg" alt="Event and KGL T&C" class="h-full object-contain" />
+	<div class="my-5 mx-auto space-y-2">
+		<h5 class="font-semibold text-lg text-center">AUGUST 2025</h5>
+		<p class="font-display text-red-900 text-center text-lg font-semibold">SUNDAYS</p>
+		<p class="text-center text-lg"><span class="font-display">CHENREZIG PRACTICE</span> 5:00 PM</p>
+
+		<p class="font-display text-red-900 text-center text-lg font-semibold">WEDNESDAYS</p>
+
+		<p class="text-center text-lg">
+			<span class="font-display">GREEN TARA PRACTICE </span>11:00 AM Led by Lama Nima Sherpa
+		</p>
+		<p class="text-center text-lg">Followed by Tsoke (Potluck)</p>
+
+		<p class="text-center text-lg">
+			<span class="font-display">MEDICINE BUDDHA PRACTICE</span> 5:00 PM Led by Lama Nima Sherpa
+		</p>
+
+		<p class="font-display text-red-900 text-center text-lg font-semibold">THURSDAYS</p>
+		<p class="text-center text-lg">Walking-Silent-Meditation 6:00 PM Led by Bryan Becker</p>
+		<p class="text-center text-lg">
+			<span class="font-display">CHÖD SPECIAL PRACTICE</span> <span class="font-bold">August 26th</span> at
+			5:00 PM
+		</p>
+
+		<!-- <img src="/event.jpg" alt="Event and KGL T&C" class="h-full object-contain" /> -->
 	</div>
 	<p class="text-lg mb-4">
 		Karma Gyurmed Ling is supported by membership and donations. We are a 501 (c) 3 non-profit
@@ -60,5 +82,5 @@
 		in the practice and study of the dharma.
 	</p>
 
-	<p class="text-2xl text-center my-2 italic">May All Beings Be Happy!!!</p>
+	<p class="text-2xl text-center my-2 font-display text-red-900">May All Beings Be Happy!!!</p>
 </Section>
