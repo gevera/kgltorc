@@ -1,7 +1,7 @@
 <script>
-	import DonateButton from "./DonateButton.svelte";
-
+	import DonateButton from './DonateButton.svelte';
 </script>
+
 <footer
 	class="flex flex-col gap-4 items-center justify-between px-6 py-4 sm:flex-row border-t border-warning bg-red-800"
 >
@@ -11,7 +11,7 @@
 
 	<p class="py-2 text-white sm:py-0 text-center mx-auto">
 		© {new Date().getFullYear()} - Karma Gyurmed Ling,
-		<a href="https://goo.gl/maps/LiHqhqrX5BxTVDpH6" target="_blank" class="hover:text-warning"
+		<a href="https://maps.app.goo.gl/3guW3eCPXgr9BpEG6" target="_blank" class="hover:text-warning"
 			>813 North Pershing Street, Truth or Consequences, NM 87901</a
 		>
 	</p>
