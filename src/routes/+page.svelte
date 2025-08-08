@@ -53,11 +53,11 @@
 		<p class="font-display text-red-900 text-center text-lg font-semibold">THURSDAYS</p>
 		<p class="text-center text-lg">Walking-Silent-Meditation 6:00 PM Led by Bryan Becker</p>
 		<p class="text-center text-lg">
-			<span class="font-display">CHÖD SPECIAL PRACTICE</span> <span class="font-bold">August 26th</span> at
-			5:00 PM
+			<span class="font-display">CHÖD SPECIAL PRACTICE</span>
+			<span class="font-bold">August 26th</span> at 5:00 PM
 		</p>
 
-		<!-- <img src="/event.jpg" alt="Event and KGL T&C" class="h-full object-contain" /> -->
+		<img src="/flyer.jpg" alt="Event and KGL T&C" class="h-full object-contain" />
 	</div>
 	<p class="text-lg mb-4">
 		Karma Gyurmed Ling is supported by membership and donations. We are a 501 (c) 3 non-profit
