@@ -35,29 +35,49 @@
 		practices, classes and upcoming events.
 	</p>
 	<div class="my-5 mx-auto space-y-2">
-		<h5 class="font-semibold text-lg text-center">AUGUST 2025</h5>
-		<p class="font-display text-red-900 text-center text-lg font-semibold">SUNDAYS</p>
-		<p class="text-center text-lg"><span class="font-display">CHENREZIG PRACTICE</span> 5:00 PM</p>
-
-		<p class="font-display text-red-900 text-center text-lg font-semibold">WEDNESDAYS</p>
-
-		<p class="text-center text-lg">
-			<span class="font-display">GREEN TARA PRACTICE </span>11:00 AM Led by Lama Nima Sherpa
+		<h5 class="font-semibold text-xl text-center">SEPTEMBER 2025 - PRACTICE SCHEDULE</h5>
+		<p class="font-display text-red-900 text-center text-lg font-semibold underline pt-10">
+			SUNDAYS
 		</p>
-		<p class="text-center text-lg">Followed by Tsoke (Potluck)</p>
-
-		<p class="text-center text-lg">
-			<span class="font-display">MEDICINE BUDDHA PRACTICE</span> 5:00 PM Led by Lama Nima Sherpa
+		<p class="text-center text-lg font-bold">
+			11:00AM <span class="font-display">GREEN TARA PRACTICE</span>
 		</p>
+		<p class="text-center text-lg font-bold">
+			5:00PM <span class="font-display">CHENREZIG PRACTICE</span>
+		</p>
+		<p class="italic text-center">Led by Lama Nima Sherpa</p>
 
-		<p class="font-display text-red-900 text-center text-lg font-semibold">THURSDAYS</p>
-		<p class="text-center text-lg">Walking-Silent-Meditation 6:00 PM Led by Bryan Becker</p>
-		<p class="text-center text-lg">
-			<span class="font-display">CHÖD SPECIAL PRACTICE</span>
-			<span class="font-bold">August 26th</span> at 5:00 PM
+		<p class="font-display text-red-900 text-center text-lg font-semibold underline pt-10">
+			WEDNESDAYS
 		</p>
 
-		<img src="/flyer.jpg" alt="Event and KGL T&C" class="h-full object-contain" />
+		<p class="text-center text-lg font-bold">
+			11:00AM
+			<span class="font-display">MEDICINE BUDDHA </span>
+		</p>
+		<p class="italic text-center">Led by Lama Nima Sherpa</p>
+
+		<p class="font-display text-red-900 text-center text-lg font-semibold underline pt-10">
+			THURSDAYS
+		</p>
+		<p class="text-center text-lg font-bold">
+			6:00PM <span class="font-display">WALKING - SILENT MEDITATION</span>
+		</p>
+		<p class="italic text-center">Led by Bryan Becker</p>
+
+		<p class="font-display text-red-900 text-center text-lg font-semibold underline pt-10">
+			SPECIAL PRACTICE
+		</p>
+		<p class="text-center text-lg font-bold">
+			<span class="font-display">Full Moon - Sunday, September 7th</span>
+		</p>
+		<p class="text-center text-lg font-bold">
+			11:00AM
+			<span class="font-display">FIRE PUJA (no Green Tara this day)</span>
+		</p>
+		<p class="italic text-center">Led by Lama Nima Sherpa</p>
+
+		<!-- <img src="/flyer.jpg" alt="Event and KGL T&C" class="h-full object-contain" /> -->
 	</div>
 	<p class="text-lg mb-4">
 		Karma Gyurmed Ling is supported by membership and donations. We are a 501 (c) 3 non-profit
