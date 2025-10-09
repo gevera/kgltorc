@@ -35,7 +35,10 @@
 		practices, classes and upcoming events.
 	</p>
 	<div class="my-5 mx-auto space-y-2">
-		<h5 class="font-semibold text-xl text-center">SEPTEMBER 2025 - PRACTICE SCHEDULE</h5>
+		<h5 class="font-semibold text-xl text-center">
+			{new Date().toLocaleString('default', { month: 'long' })}
+			{new Date().getFullYear()} - PRACTICE SCHEDULE
+		</h5>
 		<p class="font-display text-red-900 text-center text-lg font-semibold underline pt-10">
 			SUNDAYS
 		</p>
@@ -69,13 +72,39 @@
 			SPECIAL PRACTICE
 		</p>
 		<p class="text-center text-lg font-bold">
-			<span class="font-display">Full Moon - Sunday, September 7th</span>
+			<span class="font-display">Full Moon - Monday, October 6th</span>
 		</p>
 		<p class="text-center text-lg font-bold">
+			6:00PM
+			<span class="font-display">THE FOUR THOUGHTS PRACTICE</span>
+		</p>
+
+		<div class="divider" />
+		<div class="my-10 flex flex-col items-center justify-center gap-3">
+			<p class="text-center text-lg font-bold">
+				<span class="font-display text-xl">Alchemy Bowl Sound Experience</span>
+			</p>
+			<p class="text-lg">Monday, October 25th, 2:00PM</p>
+			<img src="singing_bowl.png" alt="Alchemy Bowl Sound Experience" />
+			<div class="mx-auto">
+				<p class="font-semibold text-center text-xl">Presented by 11:11 with Katherine & Greg</p>
+				<p class="text-lg">
+					Katherine has spent over 13 years immersed in the transformative art of alchemy crystal
+					bowls, using sound as a pathway for healing, balance, and expanded awareness. With a
+					background in educational therapy, acupressure and a lifelong connection to the wisdom of
+					horses, she brings insight, compassion, and intuitive guidance into her sound creations.
+					Greg, a veteran,carries forward the resilience and awareness shaped by his service into
+					the realm of sound healing. Together, Katherine and Greg weave their unique journeys into
+					an extraordinary sound experience, inviting you to rest, receive, and reconnect
+				</p>
+			</div>
+		</div>
+		<div class="divider" />
+		<!-- <p class="text-center text-lg font-bold">
 			11:00AM
 			<span class="font-display">FIRE PUJA (no Green Tara this day)</span>
 		</p>
-		<p class="italic text-center">Led by Lama Nima Sherpa</p>
+		<p class="italic text-center">Led by Lama Nima Sherpa</p> -->
 
 		<!-- <img src="/flyer.jpg" alt="Event and KGL T&C" class="h-full object-contain" /> -->
 	</div>
