@@ -13,10 +13,9 @@
 	<img
 		src="/Group_w_Kalu.jpg"
 		alt="Sangha with Kalu Rinpoche"
-		class="w-full  h-[70vh] object-cover"
+		class="w-full h-[70vh] object-cover"
 	/>
 </div>
-
 
 <Section id="members">
 	<h1 class="text-center my-4 text-3xl">Becoming a member of Karma Gyurmed Ling</h1>

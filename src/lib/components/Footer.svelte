@@ -9,12 +9,17 @@
 		>Karma Gyurmed Ling</a
 	>
 
-	<p class="py-2 text-white sm:py-0 text-center mx-auto">
-		© {new Date().getFullYear()} - Karma Gyurmed Ling,
-		<a href="https://maps.app.goo.gl/3guW3eCPXgr9BpEG6" target="_blank" class="hover:text-warning"
-			>813 North Pershing Street, Truth or Consequences, NM 87901</a
+	<div class="py-2 text-white sm:py-0 text-center mx-auto flex flex-col gap-5">
+		<p>
+			© {new Date().getFullYear()} - Karma Gyurmed Ling,
+			<a href="https://maps.app.goo.gl/3guW3eCPXgr9BpEG6" target="_blank" class="hover:text-warning"
+				>813 North Pershing Street, Truth or Consequences, NM 87901</a
+			>
+		</p>
+		<a href="https://www.skryonline.com" target="_blank" class="text-sm opacity-50"
+			>Website designed by SKRY Online</a
 		>
-	</p>
+	</div>
 
 	<div>
 		<DonateButton />

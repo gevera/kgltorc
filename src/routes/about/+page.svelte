@@ -229,6 +229,12 @@
 
 	<h2 class="text-center text-2xl my-6">Venerable Lama Nima Sherpa, our resident lama</h2>
 
+	<div class="my-4 w-full">
+		<figure>
+			<img src="/lama_bhutan.jpg" alt="Lama Migma Sherpa" class="w-full object-cover" />
+			<!-- <figcaption class="text-center italic">Lama Nima Sherpa</figcaption> -->
+		</figure>
+	</div>
 	<p class="mb-4 text-lg">
 		Lama Nima Sherpa was born in Nepal In 1986. When he was 7 years old, he was admitted and
 		ordained as a Monk by his <span class="italic">Eminence Kalu Rinpoche</span> in January 1993 at
