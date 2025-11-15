@@ -34,50 +34,53 @@
 			{new Date().toLocaleString('default', { month: 'long' })}
 			{new Date().getFullYear()} - PRACTICE SCHEDULE
 		</h5>
-		<p class="font-display text-red-900 text-center text-lg font-semibold underline pt-10">
+		<p class="display-font text-red-900 text-center text-lg font-semibold underline pt-10">
 			SUNDAYS
 		</p>
 		<p class="text-center text-lg font-bold">
-			11:00AM <span class="font-display">GREEN TARA PRACTICE</span>
+			8:00AM <span class="display-font">GREEN TARA PRACTICE</span>
 		</p>
 		<p class="text-center text-lg font-bold">
-			5:00PM <span class="font-display">CHENREZIG PRACTICE</span>
+			9:00AM <span class="display-font">Tsoke - Brunch Potluck</span>
+		</p>
+		<p class="text-center text-lg font-bold">
+			11:00AM <span class="display-font">CHENREZIG PRACTICE</span>
 		</p>
 		<p class="italic text-center">Led by Lama Nima Sherpa</p>
 
-		<p class="font-display text-red-900 text-center text-lg font-semibold underline pt-10">
+		<p class="display-font text-red-900 text-center text-lg font-semibold underline pt-10">
 			WEDNESDAYS
 		</p>
 
 		<p class="text-center text-lg font-bold">
-			11:00AM
-			<span class="font-display">MEDICINE BUDDHA </span>
+			09:00AM
+			<span class="display-font">MEDICINE BUDDHA </span>
 		</p>
 		<p class="italic text-center">Led by Lama Nima Sherpa</p>
 
-		<p class="font-display text-red-900 text-center text-lg font-semibold underline pt-10">
+		<p class="display-font text-red-900 text-center text-lg font-semibold underline pt-10">
 			THURSDAYS
 		</p>
 		<p class="text-center text-lg font-bold">
-			6:00PM <span class="font-display">WALKING - SILENT MEDITATION</span>
+			6:00PM <span class="display-font">WALKING - SILENT MEDITATION</span>
 		</p>
 		<p class="italic text-center">Led by Bryan Becker</p>
 
-		<p class="font-display text-red-900 text-center text-lg font-semibold underline pt-10">
+		<p class="display-font text-red-900 text-center text-lg font-semibold underline pt-10">
 			SPECIAL PRACTICE
 		</p>
 		<p class="text-center text-lg font-bold">
-			<span class="font-display">Full Moon - Monday, October 6th</span>
+			<span class="display-font">Full Moon - Wednesday, November 5th</span>
 		</p>
 		<p class="text-center text-lg font-bold">
-			6:00PM
-			<span class="font-display">THE FOUR THOUGHTS PRACTICE</span>
+			9:00AM
+			<span class="display-font">THE FOUR THOUGHTS PRACTICE</span>
 		</p>
 
 		<div class="divider" />
 		<!-- <p class="text-center text-lg font-bold">
 			11:00AM
-			<span class="font-display">FIRE PUJA (no Green Tara this day)</span>
+			<span class="display-font">FIRE PUJA (no Green Tara this day)</span>
 		</p>
 		<p class="italic text-center">Led by Lama Nima Sherpa</p> -->
 
@@ -106,5 +109,5 @@
 		in the practice and study of the dharma.
 	</p>
 
-	<p class="text-2xl text-center my-2 font-display text-red-900">May All Beings Be Happy!!!</p>
+	<p class="text-2xl text-center my-2 display-font text-red-900">May All Beings Be Happy!!!</p>
 </Section>
