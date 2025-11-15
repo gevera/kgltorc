@@ -1,0 +1,25 @@
+@import 'tailwindcss';
+@plugin 'daisyui';
+@plugin 'daisyui/theme' {
+    name: 'kgl';
+    default: true;
+    prefersdark: false;
+    color-scheme: 'light';
+    --color-base-100: '#f7f7f8';
+    --color-primary: '#7f1d1d';
+    --color-secondary: '#0996c1';
+    --color-accent: '#f4e1b5';
+    --color-neutral: '#282a39';
+    --color-info: '#5b98cd';
+    --color-success: '#63d9cd';
+    --color-warning: '#fabd5c';
+    --color-error: '#ef3e64';
+};
+
+
+html {
+	scroll-behavior: smooth;
+}
+.display-font {
+	font-family: 'Fondamento', cursive;
+}
