@@ -1,3 +1,6 @@
+<script lang="ts">
+	import { route } from "$lib/ROUTES";
+</script>
 <nav class="navbar bg-base-100 justify-between sticky top-0 z-[1000]">
 	<div class="navbar-start w-10">
 		<div class="dropdown  tooltip tooltip-right tooltip-warning" data-tip="MENU">
@@ -23,19 +26,18 @@
 				name="menu"
 				class="menu menu-compact dropdown-content mt-3 p-2 shadow bg-base-100 rounded-box w-52 border"
 			>
-				<li><a href="/">Home</a></li>
-				<li><a href="/about">About Us</a></li>
-				<li><a href="/about#stupa">Our Stupa</a></li>
-				<li><a href="/membership_support#hero">Membership & Support</a></li>
-				<li><a href="/calendar">Calendar & Events</a></li>
-				<!-- <li><a href="/registration">Registration</a></li> -->
+				<li><a href={route('/')}>Home</a></li>
+				<li><a href={route('/about')}>About Us</a></li>
+				<li><a href={route('stupa')}>Our Stupa</a></li>
+				<li><a href={route('membership_support')}>Membership & Support</a></li>
+				<li><a href={route('/calendar')}>Calendar & Events</a></li>
 			</ul>
 		</div>
 	</div>
 	<div class="navbar-center ">
 		<a
 			class="normal-case display-font text-center text-xl md:text-4xl font-light text-red-800"
-			href="/">Karma Gyurmed Ling</a
+			href={route('/')}>Karma Gyurmed Ling</a
 		>
 	</div>
 	<div class="navbar-end w-10">
@@ -43,7 +45,7 @@
 			class="btn btn-ghost btn-circle tooltip tooltip-left tooltip-warning"
 			data-tip="Events Calendar"
 		>
-			<a class="indicator" href="/calendar">
+			<a class="indicator" href={route('/calendar')}>
 				<svg
 					xmlns="http://www.w3.org/2000/svg"
 					class="h-6 w-6"

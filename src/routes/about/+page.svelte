@@ -1,6 +1,7 @@
 <script lang="ts">
 	import Portal from '$lib/components/Portal.svelte';
 	import Section from '$lib/components/Section.svelte';
+	import { route } from '$lib/ROUTES';
 </script>
 
 <svelte:head>
@@ -340,7 +341,7 @@
 	</p>
 	<p class="mb-4 text-lg">
 		The Buddha statue placed in the upper part of the Stupa is <a
-			href="https://www.wikiwand.com/en/Medicine_Buddha"
+			href={route('medicine_buddha')}
 			target="_blank"
 			class="">Medicine Buddha</a
 		>, exemplifying healing for all beings.

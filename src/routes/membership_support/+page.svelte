@@ -2,6 +2,7 @@
 	import DonateButton from '$lib/components/DonateButton.svelte';
 	import Portal from '$lib/components/Portal.svelte';
 	import Section from '$lib/components/Section.svelte';
+	import { route } from '$lib/ROUTES';
 </script>
 
 <svelte:head>
@@ -61,7 +62,7 @@
 	<div class="my-2 text-lg">
 		Or
 		<a
-			href="https://docs.google.com/document/d/12gpqDBcsTg9bxjSDPvDwA-wx6k20GPmQCkuuWF5PuEs"
+			href={route('membership_support')}
 			target="_blank"
 			class="text-red-900 italic font-bold hover:text-red-800 hover:underline"
 		>
