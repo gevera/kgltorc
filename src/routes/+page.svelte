@@ -53,7 +53,7 @@
 		</p>
 
 		<p class="text-center text-lg font-bold">
-			05:00AM
+			05:00PM
 			<span class="display-font">MEDICINE BUDDHA </span>
 		</p>
 		<p class="italic text-center">Led by Lama Nima Sherpa</p>
