@@ -26,8 +26,8 @@
 		>
 		is a center of Buddhist study and practice under the direction of His Eminence The 2nd Kyabje Kalu
 		Rinpoche, Meditation Master of the Kagyupa and Shangpa lineages of Tibetan Buddhism. Please go to
-		<a href={route('/calendar')} class="text-red-800">our calendar</a> for the schedule of our weekly and monthly
-		practices, classes and upcoming events.
+		<a href={route('/calendar')} class="text-red-800">our calendar</a> for the schedule of our weekly
+		and monthly practices, classes and upcoming events.
 	</p>
 	<div class="my-5 mx-auto space-y-2">
 		<h5 class="font-semibold text-xl text-center">
@@ -38,13 +38,13 @@
 			SUNDAYS
 		</p>
 		<p class="text-center text-lg font-bold">
-			8:00AM <span class="display-font">GREEN TARA PRACTICE</span>
+			9:00AM <span class="display-font">GREEN TARA PRACTICE</span>
 		</p>
 		<p class="text-center text-lg font-bold">
-			9:00AM <span class="display-font">Tsoke - Brunch Potluck</span>
+			10:00AM <span class="display-font">Tsoke - Brunch Potluck</span>
 		</p>
 		<p class="text-center text-lg font-bold">
-			11:00AM <span class="display-font">CHENREZIG PRACTICE</span>
+			05:00PM <span class="display-font">CHENREZIG PRACTICE</span>
 		</p>
 		<p class="italic text-center">Led by Lama Nima Sherpa</p>
 
@@ -53,7 +53,7 @@
 		</p>
 
 		<p class="text-center text-lg font-bold">
-			09:00AM
+			05:00AM
 			<span class="display-font">MEDICINE BUDDHA </span>
 		</p>
 		<p class="italic text-center">Led by Lama Nima Sherpa</p>
@@ -70,10 +70,10 @@
 			SPECIAL PRACTICE
 		</p>
 		<p class="text-center text-lg font-bold">
-			<span class="display-font">Full Moon - Wednesday, November 5th</span>
+			<span class="display-font">Full Moon - Thursday, December 4th</span>
 		</p>
 		<p class="text-center text-lg font-bold">
-			9:00AM
+			10:00AM
 			<span class="display-font">THE FOUR THOUGHTS PRACTICE</span>
 		</p>
 
