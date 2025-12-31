@@ -40,13 +40,14 @@
 		<p class="text-center text-lg font-bold">
 			9:00AM <span class="display-font">GREEN TARA PRACTICE</span>
 		</p>
+		<p class="italic text-center">Led by Lama Nima Sherpa</p>
 		<p class="text-center text-lg font-bold">
 			10:00AM <span class="display-font">Tsoke - Brunch Potluck</span>
 		</p>
-		<p class="text-center text-lg font-bold">
+		<p class="italic text-center text-sm">(No meat, no eggs, vegetarian meal)</p>
+		<!-- <p class="text-center text-lg font-bold">
 			05:00PM <span class="display-font">CHENREZIG PRACTICE</span>
-		</p>
-		<p class="italic text-center">Led by Lama Nima Sherpa</p>
+		</p> -->
 
 		<p class="display-font text-red-900 text-center text-lg font-semibold underline pt-10">
 			WEDNESDAYS
@@ -70,11 +71,11 @@
 			SPECIAL PRACTICE
 		</p>
 		<p class="text-center text-lg font-bold">
-			<span class="display-font">Full Moon - Thursday, December 4th</span>
+			<span class="display-font">Full Moon Puja- Saturday, January 3th</span>
 		</p>
 		<p class="text-center text-lg font-bold">
-			10:00AM
-			<span class="display-font">THE FOUR THOUGHTS PRACTICE</span>
+			11:00AM
+			<span class="display-font">THE FOUR THOUGHTS PRACTICE and FIRE PUJA</span>
 		</p>
 
 		<div class="divider" />
