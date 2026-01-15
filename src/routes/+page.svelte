@@ -79,6 +79,16 @@
 		</p>
 
 		<div class="divider" />
+		<div class="flex justify-center">
+			<img src="amithaba_lama_rinchen.jpg" alt="In Honor of Lama Rinchen" />
+		</div>
+		<p class="text-center text-lg font-bold">
+			<span class="display-font"
+				><span class="uppercase">Amithaba Buddha Practice</span> <br /> in Honor of Lama Rinchen- Saturday,
+				January 17th | 11:00AM</span
+			>
+		</p>
+		<div class="divider" />
 		<!-- <p class="text-center text-lg font-bold">
 			11:00AM
 			<span class="display-font">FIRE PUJA (no Green Tara this day)</span>
