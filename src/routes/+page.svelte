@@ -45,9 +45,9 @@
 			10:00AM <span class="display-font">Tsoke - Brunch Potluck</span>
 		</p>
 		<p class="italic text-center text-sm">(No meat, no eggs, vegetarian meal)</p>
-		<!-- <p class="text-center text-lg font-bold">
+		<p class="text-center text-lg font-bold">
 			05:00PM <span class="display-font">CHENREZIG PRACTICE</span>
-		</p> -->
+		</p>
 
 		<p class="display-font text-red-900 text-center text-lg font-semibold underline pt-10">
 			WEDNESDAYS
@@ -71,14 +71,15 @@
 			SPECIAL PRACTICE
 		</p>
 		<p class="text-center text-lg font-bold">
-			<span class="display-font">Full Moon Puja- Saturday, January 3th</span>
+			<span class="display-font">Losar - Fire Puja - Wednesday, February 18</span>
 		</p>
 		<p class="text-center text-lg font-bold">
 			11:00AM
-			<span class="display-font">THE FOUR THOUGHTS PRACTICE and FIRE PUJA</span>
+			<span class="display-font">FIRE PUJA</span>
 		</p>
+		<p class="italic text-center text-sm">Please bring food offerings and flowers.</p>
 
-		<div class="divider" />
+		<!-- <div class="divider" />
 		<div class="flex justify-center">
 			<img src="amithaba_lama_rinchen.jpg" alt="In Honor of Lama Rinchen" />
 		</div>
@@ -87,7 +88,7 @@
 				><span class="uppercase">Amithaba Buddha Practice</span> <br /> in Honor of Lama Rinchen- Saturday,
 				January 17th | 11:00AM</span
 			>
-		</p>
+		</p> -->
 		<div class="divider" />
 		<!-- <p class="text-center text-lg font-bold">
 			11:00AM
