@@ -67,7 +67,7 @@
 		</p>
 		<p class="italic text-center">Led by Bryan Becker</p>
 
-		<p class="display-font text-red-900 text-center text-lg font-semibold underline pt-10">
+		<!-- <p class="display-font text-red-900 text-center text-lg font-semibold underline pt-10">
 			SPECIAL PRACTICE
 		</p>
 		<p class="text-center text-lg font-bold">
@@ -77,7 +77,7 @@
 			11:00AM
 			<span class="display-font">FIRE PUJA</span>
 		</p>
-		<p class="italic text-center text-sm">Please bring food offerings and flowers.</p>
+		<p class="italic text-center text-sm">Please bring food offerings and flowers.</p> -->
 
 		<!-- <div class="divider" />
 		<div class="flex justify-center">
