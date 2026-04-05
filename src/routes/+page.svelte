@@ -67,17 +67,19 @@
 		</p>
 		<p class="italic text-center">Led by Bryan Becker</p>
 
-		<!-- <p class="display-font text-red-900 text-center text-lg font-semibold underline pt-10">
-			SPECIAL PRACTICE
+		<p class="display-font text-red-900 text-center text-lg font-semibold underline pt-10">
+			SPECIAL EVENT
 		</p>
 		<p class="text-center text-lg font-bold">
-			<span class="display-font">Losar - Fire Puja - Wednesday, February 18</span>
+			<span class="display-font">Install New Prayer Flags - Saturday, April 18</span>
 		</p>
 		<p class="text-center text-lg font-bold">
-			11:00AM
-			<span class="display-font">FIRE PUJA</span>
+			10:00-12:00AM
+			<!-- <span class="display-font">FIRE PUJA</span> -->
 		</p>
-		<p class="italic text-center text-sm">Please bring food offerings and flowers.</p> -->
+		<p class="italic text-center text-sm">
+			Please come help with this offering and blessing. Snacks, coffee, and tea will be served.
+		</p>
 
 		<!-- <div class="divider" />
 		<div class="flex justify-center">
